@@ -114,6 +114,11 @@ Security Notes
 - Runs as non-root (Docker user, or native user). Avoid root.
 - Outbound sockets/subprocess disabled in application logic.
 
+   SIEM DASHBOARD 
+
 <img width="1920" height="965" alt="SSH Honeypot SIEM Dashboard — Mozilla Firefox 10_5_2025 8_04_17 PM" src="https://github.com/user-attachments/assets/8663b42e-d9c4-4117-963a-1074e30d024d" />
+<img width="1920" height="962" alt="SSH Honeypot SIEM Dashboard — Mozilla Firefox 10_5_2025 8_04_20 PM" src="https://github.com/user-attachments/assets/212f8394-03ae-40b6-bfea-3cb66ac903d6" />
+<img width="1920" height="978" alt="Screenshot 10_5_2025 8_04_27 PM" src="https://github.com/user-attachments/assets/d6f67c01-c700-4e36-8f5b-cf06432ab97d" />
+
 
 

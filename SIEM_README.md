@@ -2,31 +2,31 @@
 
 Bu proje, SSH honeypot loglarını gerçek zamanlı olarak analiz eden ve güvenlik tehditlerini tespit eden kapsamlı bir SIEM (Security Information and Event Management) sistemidir.
 
-## 🚀 Özellikler
+##  Özellikler
 
-### 🔍 Log Toplama ve Analiz
+###  Log Toplama ve Analiz
 - **Gerçek Zamanlı İzleme**: SSH honeypot loglarını anlık olarak takip eder
 - **Çoklu Format Desteği**: JSON ve metin formatındaki logları destekler
 - **Otomatik Parsing**: Logları otomatik olarak ayrıştırır ve veritabanına kaydeder
 
-### 🛡️ Kural Tabanlı Tespit
+###  Kural Tabanlı Tespit
 - **Özelleştirilebilir Kurallar**: Regex tabanlı kural sistemi
 - **Tehlike Seviyeleri**: Critical, High, Medium, Low seviyelerinde sınıflandırma
 - **Otomatik Etiketleme**: Kurallara uyan logları otomatik olarak etiketler
 - **Varsayılan Kurallar**: Yaygın saldırı desenleri için hazır kurallar
 
-### 📊 Görsel Dashboard
+###  Görsel Dashboard
 - **Modern Web Arayüzü**: Bootstrap 5 ile responsive tasarım
 - **Gerçek Zamanlı İstatistikler**: Toplam log, alarm ve aktivite sayıları
 - **Gelişmiş Filtreleme**: IP, tehlike seviyesi, olay tipi ve tarih aralığına göre filtreleme
 - **Analitik Grafikler**: Severity dağılımı ve en aktif IP'ler için görselleştirme
 
-### 🔧 Yönetim Özellikleri
+###  Yönetim Özellikleri
 - **Kural Yönetimi**: Web arayüzünden kural ekleme, düzenleme ve silme
 - **Pagination**: Büyük log verilerini sayfalama ile görüntüleme
 - **Otomatik Yenileme**: 30 saniyede bir otomatik veri yenileme
 
-## 🏗️ Sistem Mimarisi
+##  Sistem Mimarisi
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
@@ -41,7 +41,7 @@ Bu proje, SSH honeypot loglarını gerçek zamanlı olarak analiz eden ve güven
                        └─────────────────┘    └─────────────────┘
 ```
 
-## 🐳 Docker Kurulumu
+##  Docker Kurulumu
 
 ### Gereksinimler
 - Docker
@@ -103,7 +103,7 @@ Web tarayıcınızda `http://localhost:5000` adresine gidin.
 - **Analytics** sekmesinde görsel raporları inceleyin
 - Severity dağılımını ve en aktif IP'leri görün
 
-## 🧪 Test Etme
+##  Test Etme
 
 ### SSH Honeypot Testi
 ```bash
@@ -119,7 +119,7 @@ curl http://localhost:5000/api/stats
 # Tarayıcıda http://localhost:5000 adresine gidin
 ```
 
-## 📁 Proje Yapısı
+##  Proje Yapısı
 
 ```
 ssh-honeypot-siem/
@@ -137,7 +137,7 @@ ssh-honeypot-siem/
 └── Dockerfile                     # SSH Honeypot container
 ```
 
-## 🔒 Güvenlik Özellikleri
+##  Güvenlik Özellikleri
 
 - **Non-root Container**: Tüm servisler güvenli kullanıcı hesapları ile çalışır
 - **Read-only Log Access**: SIEM dashboard log dosyalarını sadece okur
@@ -188,7 +188,7 @@ docker exec -it siem-dashboard ls -la /app/data/
 docker exec -it siem-dashboard ls -la /var/log/ssh-honeypot/
 ```
 
-## 📈 Gelecek Geliştirmeler
+##  Gelecek Geliştirmeler
 
 - [ ] Email/SMS alarm bildirimleri
 - [ ] Machine Learning tabanlı anomali tespiti
@@ -198,19 +198,7 @@ docker exec -it siem-dashboard ls -la /var/log/ssh-honeypot/
 - [ ] REST API genişletme
 - [ ] Webhook entegrasyonu
 
-## 📄 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır.
 
-## 🤝 Katkıda Bulunma
 
-1. Fork yapın
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Commit yapın (`git commit -m 'Add amazing feature'`)
-4. Push yapın (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
-
-## 📞 Destek
-
-Sorularınız için issue açabilir veya iletişime geçebilirsiniz.
 

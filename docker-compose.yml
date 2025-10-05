@@ -1,0 +1,44 @@
+version: "3.9"
+services:
+  ssh-honeypot:
+    build: .
+    image: ssh-honeypot:latest
+    container_name: ssh-honeypot
+    restart: unless-stopped
+    ports:
+      - "2222:2222"
+    environment:
+      - HP_LISTEN_HOST=0.0.0.0
+      - HP_LISTEN_PORT=2222
+      - HP_FAKE_HOSTNAME=prod-app-01
+      - HP_BANNER=SSH-2.0-OpenSSH_8.9p1
+      - HP_IDLE_TIMEOUT=120
+      - HP_MASK_PASSWORDS=true
+      - HP_LOG_DIR=/var/log/ssh-honeypot
+      - HP_LOG_FORMAT=jsonl
+    volumes:
+      - ./logs:/var/log/ssh-honeypot
+      - ./src:/app/src
+      - ./honeypot_elliot:/app/honeypot_elliot
+      - ./honeypot_mrrobot:/app/honeypot_mrrobot
+      - ./cloned_system:/app/cloned_system
+
+  siem-dashboard:
+    build: ./siem
+    image: siem-dashboard:latest
+    container_name: siem-dashboard
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=production
+    volumes:
+      - ./logs:/var/log/ssh-honeypot:ro
+      - siem-data:/app/data
+    depends_on:
+      - ssh-honeypot
+
+volumes:
+  siem-data:
+
+

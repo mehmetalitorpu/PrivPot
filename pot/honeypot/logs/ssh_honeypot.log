@@ -1,0 +1,787 @@
+2025-09-05 12:13:15,547 CONN conn_open 172.18.0.1:47520 sid=aa5571e145abd084dce1ea15fb51abc0
+2025-09-05 12:15:15,536 CONN conn_close 172.18.0.1:47520 sid=aa5571e145abd084dce1ea15fb51abc0
+2025-09-05 12:22:05,442 CONN conn_open 172.18.0.1:40276 sid=259dd52e768ebf0771ec0841ac185772
+2025-09-05 12:22:09,841 AUTH 172.18.0.1:40276 user=anyy pass=*** sid=259dd52e768ebf0771ec0841ac185772
+2025-09-05 12:22:09,847 CONN conn_close 172.18.0.1:40276 sid=259dd52e768ebf0771ec0841ac185772
+2025-09-05 12:37:53,381 CONN conn_open 172.18.0.1:48910 sid=7e81a271d3fab56e357855596ed62cf1
+2025-09-05 12:37:59,237 AUTH 172.18.0.1:48910 user=kullanıcı pass=*** sid=7e81a271d3fab56e357855596ed62cf1
+2025-09-05 12:37:59,241 CONN conn_close 172.18.0.1:48910 sid=7e81a271d3fab56e357855596ed62cf1
+2025-09-05 12:38:01,772 CONN conn_open 172.18.0.1:46078 sid=674848bd556b30819b145c5f77158bf4
+2025-09-05 12:38:04,500 AUTH 172.18.0.1:46078 user=kullanıcı pass=*** sid=674848bd556b30819b145c5f77158bf4
+2025-09-05 12:38:04,504 CONN conn_close 172.18.0.1:46078 sid=674848bd556b30819b145c5f77158bf4
+2025-09-05 12:38:06,383 CONN conn_open 172.18.0.1:46088 sid=520d4d303e06996c5bc51f6f7a76c669
+2025-09-05 12:38:12,636 AUTH 172.18.0.1:46088 user=kullanıcı pass=*** sid=520d4d303e06996c5bc51f6f7a76c669
+2025-09-05 12:38:12,640 CONN conn_close 172.18.0.1:46088 sid=520d4d303e06996c5bc51f6f7a76c669
+2025-09-05 12:39:07,076 CONN conn_open 172.18.0.1:34158 sid=aa4262d2506c1368ffc85852ae2293d1
+2025-09-05 12:39:08,911 AUTH 172.18.0.1:34158 user=kullanıcı pass=*** sid=aa4262d2506c1368ffc85852ae2293d1
+2025-09-05 12:39:08,915 CONN conn_close 172.18.0.1:34158 sid=aa4262d2506c1368ffc85852ae2293d1
+2025-09-05 12:40:37,718 CONN conn_open 172.18.0.1:48848 sid=89f9078884f7eb63761ac460fd21cbea
+2025-09-05 12:40:40,301 CONN conn_close 172.18.0.1:48848 sid=89f9078884f7eb63761ac460fd21cbea
+2025-09-05 12:41:59,570 CONN conn_open 172.18.0.1:41562 sid=503f683fa26c6a847d1d85abb63135f8
+2025-09-05 12:42:04,165 AUTH 172.18.0.1:41562 user=admin pass=*** sid=503f683fa26c6a847d1d85abb63135f8
+2025-09-05 12:42:04,169 CONN conn_close 172.18.0.1:41562 sid=503f683fa26c6a847d1d85abb63135f8
+2025-09-05 12:42:04,211 CONN conn_open 172.18.0.1:41676 sid=dcbe2ceff09fbb585d785da08b148b12
+2025-09-05 12:42:05,674 AUTH 172.18.0.1:41676 user=root pass=*** sid=dcbe2ceff09fbb585d785da08b148b12
+2025-09-05 12:42:05,677 CONN conn_close 172.18.0.1:41676 sid=dcbe2ceff09fbb585d785da08b148b12
+2025-09-05 12:45:09,113 CONN conn_open 172.18.0.1:40460 sid=a1186ddb565e8a7fc0220867765abe58
+2025-09-05 12:47:09,142 CONN conn_close 172.18.0.1:40460 sid=a1186ddb565e8a7fc0220867765abe58
+2025-09-05 12:52:55,679 CONN conn_open 172.18.0.1:36836 sid=7a3e3fd22e937f42faaf8572ccf0f542
+2025-09-05 12:52:55,728 CONN conn_close 172.18.0.1:36836 sid=7a3e3fd22e937f42faaf8572ccf0f542
+2025-09-05 12:53:03,998 CONN conn_open 172.18.0.1:44126 sid=9b4807f52293cb1cb24226eef6d498a2
+2025-09-05 12:55:03,987 CONN conn_close 172.18.0.1:44126 sid=9b4807f52293cb1cb24226eef6d498a2
+2025-09-05 14:09:15,558 CONN conn_open 172.18.0.1:41868 sid=9b3e0af7932292d2f0243d10df8b18cc
+2025-09-05 14:11:15,650 CONN conn_close 172.18.0.1:41868 sid=9b3e0af7932292d2f0243d10df8b18cc
+2025-09-05 14:13:24,926 CONN conn_open 172.18.0.1:53882 sid=7d9d759c6c0589baba2406179f358fd8
+2025-09-05 14:13:24,978 CONN conn_close 172.18.0.1:53882 sid=7d9d759c6c0589baba2406179f358fd8
+2025-09-05 14:13:29,448 CONN conn_open 172.18.0.1:53888 sid=563124f1ed2defd1bdff30c78b9fa431
+2025-09-05 14:13:29,497 CONN conn_close 172.18.0.1:53888 sid=563124f1ed2defd1bdff30c78b9fa431
+2025-09-05 14:19:08,309 CONN conn_open 172.18.0.1:51236 sid=089c949294b685d2a3a5e81736698912
+2025-09-05 14:19:08,316 CONN conn_close 172.18.0.1:51236 sid=089c949294b685d2a3a5e81736698912
+2025-09-05 14:19:26,635 CONN conn_open 172.18.0.1:41574 sid=8941923e00a3fe4468cbcc005c3b3e26
+2025-09-05 14:21:20,586 CONN conn_close 172.18.0.1:41574 sid=8941923e00a3fe4468cbcc005c3b3e26
+2025-09-05 14:35:01,117 CONN conn_open 172.18.0.1:55228 sid=eb05c108c7b4313cb8bb49ac2c9391ae
+2025-09-05 14:35:10,416 CONN conn_close 172.18.0.1:55228 sid=eb05c108c7b4313cb8bb49ac2c9391ae
+2025-09-05 14:35:24,773 CONN conn_open 172.18.0.1:52056 sid=d953b88e88f859a9b16d41c6893ac4fd
+2025-09-05 14:35:24,781 CONN conn_close 172.18.0.1:52056 sid=d953b88e88f859a9b16d41c6893ac4fd
+2025-09-05 14:35:27,546 CONN conn_open 172.18.0.1:52072 sid=72f3cee814f7553c8376045b044fa838
+2025-09-05 14:35:27,556 CONN conn_close 172.18.0.1:52072 sid=72f3cee814f7553c8376045b044fa838
+2025-09-05 14:35:29,881 CONN conn_open 172.18.0.1:44384 sid=d5dc8cf4952ff5ee8d1b8c482548efd3
+2025-09-05 14:35:29,889 CONN conn_close 172.18.0.1:44384 sid=d5dc8cf4952ff5ee8d1b8c482548efd3
+2025-09-05 14:35:33,360 CONN conn_open 172.18.0.1:44400 sid=571aa1931b81227eea1a2b0676d8aca8
+2025-09-05 14:35:33,368 CONN conn_close 172.18.0.1:44400 sid=571aa1931b81227eea1a2b0676d8aca8
+2025-09-05 14:35:44,278 CONN conn_open 172.18.0.1:56006 sid=49edf87915bd578702c16c2b3eb0e035
+2025-09-05 14:35:50,349 AUTH 172.18.0.1:56006 user=an pass=*** sid=49edf87915bd578702c16c2b3eb0e035
+2025-09-05 14:35:50,353 CONN conn_close 172.18.0.1:56006 sid=49edf87915bd578702c16c2b3eb0e035
+2025-09-05 14:38:42,331 CONN conn_open 172.18.0.1:47334 sid=0383678635ed74ea3066a6e8542e3833
+2025-09-05 14:38:42,340 CONN conn_close 172.18.0.1:47334 sid=0383678635ed74ea3066a6e8542e3833
+2025-09-05 14:38:48,135 CONN conn_open 172.18.0.1:47348 sid=1e0a9e63d48be50c95e6551487dfc21d
+2025-09-05 14:38:56,095 AUTH 172.18.0.1:47348 user=an pass=*** sid=1e0a9e63d48be50c95e6551487dfc21d
+2025-09-05 14:38:59,710 CMD  172.18.0.1:47348 user=an sid=1e0a9e63d48be50c95e6551487dfc21d cmd=hello
+2025-09-05 14:39:01,688 CMD  172.18.0.1:47348 user=an sid=1e0a9e63d48be50c95e6551487dfc21d cmd=ls
+2025-09-05 14:39:04,519 CMD  172.18.0.1:47348 user=an sid=1e0a9e63d48be50c95e6551487dfc21d cmd=
+2025-09-05 14:39:06,209 CMD  172.18.0.1:47348 user=an sid=1e0a9e63d48be50c95e6551487dfc21d cmd=dir
+2025-09-05 14:39:19,038 CMD  172.18.0.1:47348 user=an sid=1e0a9e63d48be50c95e6551487dfc21d cmd=ls
+2025-09-05 14:39:24,834 CMD  172.18.0.1:47348 user=an sid=1e0a9e63d48be50c95e6551487dfc21d cmd=ls
+2025-09-05 14:39:25,533 CMD  172.18.0.1:47348 user=an sid=1e0a9e63d48be50c95e6551487dfc21d cmd=sdlf
+2025-09-05 14:39:27,202 CMD  172.18.0.1:47348 user=an sid=1e0a9e63d48be50c95e6551487dfc21d cmd=ls
+2025-09-05 14:39:31,027 CMD  172.18.0.1:47348 user=an sid=1e0a9e63d48be50c95e6551487dfc21d cmd=sdlfsşdf
+2025-09-05 14:39:32,333 CMD  172.18.0.1:47348 user=an sid=1e0a9e63d48be50c95e6551487dfc21d cmd=ls
+2025-09-05 14:40:21,814 CMD  172.18.0.1:47348 user=an sid=1e0a9e63d48be50c95e6551487dfc21d cmd=c
+2025-09-05 14:40:26,387 CMD  172.18.0.1:47348 user=an sid=1e0a9e63d48be50c95e6551487dfc21d cmd=whoami
+2025-09-05 14:40:28,908 CMD  172.18.0.1:47348 user=an sid=1e0a9e63d48be50c95e6551487dfc21d cmd=whoami
+2025-09-05 14:40:29,878 CMD  172.18.0.1:47348 user=an sid=1e0a9e63d48be50c95e6551487dfc21d cmd=ls
+2025-09-05 14:40:56,131 CONN conn_close 172.18.0.1:47348 sid=1e0a9e63d48be50c95e6551487dfc21d
+2025-09-05 14:42:00,829 CONN conn_open 172.18.0.1:52742 sid=f10486ad1f53bea1db530caffc27188a
+2025-09-05 14:42:02,604 AUTH 172.18.0.1:52742 user=an pass=*** sid=f10486ad1f53bea1db530caffc27188a
+2025-09-05 14:42:05,741 CMD  172.18.0.1:52742 user=an sid=f10486ad1f53bea1db530caffc27188a cmd=whoami
+2025-09-05 14:42:06,919 CMD  172.18.0.1:52742 user=an sid=f10486ad1f53bea1db530caffc27188a cmd=whoami
+2025-09-05 14:42:07,332 CMD  172.18.0.1:52742 user=an sid=f10486ad1f53bea1db530caffc27188a cmd=whoami
+2025-09-05 14:42:07,520 CMD  172.18.0.1:52742 user=an sid=f10486ad1f53bea1db530caffc27188a cmd=
+2025-09-05 14:42:07,771 CMD  172.18.0.1:52742 user=an sid=f10486ad1f53bea1db530caffc27188a cmd=whoami
+2025-09-05 14:42:08,078 CMD  172.18.0.1:52742 user=an sid=f10486ad1f53bea1db530caffc27188a cmd=whoami
+2025-09-05 14:42:08,315 CMD  172.18.0.1:52742 user=an sid=f10486ad1f53bea1db530caffc27188a cmd=whoami
+2025-09-05 14:42:08,569 CMD  172.18.0.1:52742 user=an sid=f10486ad1f53bea1db530caffc27188a cmd=whoami
+2025-09-05 14:42:08,808 CMD  172.18.0.1:52742 user=an sid=f10486ad1f53bea1db530caffc27188a cmd=whoami
+2025-09-05 14:42:08,983 CMD  172.18.0.1:52742 user=an sid=f10486ad1f53bea1db530caffc27188a cmd=whoami
+2025-09-05 14:42:09,610 CMD  172.18.0.1:52742 user=an sid=f10486ad1f53bea1db530caffc27188a cmd=
+2025-09-05 14:42:53,675 CMD  172.18.0.1:52742 user=an sid=f10486ad1f53bea1db530caffc27188a cmd=nbr
+2025-09-05 14:44:02,642 CONN conn_close 172.18.0.1:52742 sid=f10486ad1f53bea1db530caffc27188a
+2025-09-08 14:13:13,354 CONN conn_open 172.18.0.1:36592 sid=7f731557ec7f220367ec406838c2dbde
+2025-09-08 14:13:17,925 AUTH 172.18.0.1:36592 user=attacker pass=*** sid=7f731557ec7f220367ec406838c2dbde
+2025-09-08 14:13:20,695 CMD  172.18.0.1:36592 user=attacker sid=7f731557ec7f220367ec406838c2dbde cmd=whoami
+2025-09-08 14:13:21,778 CMD  172.18.0.1:36592 user=attacker sid=7f731557ec7f220367ec406838c2dbde cmd=ls
+2025-09-08 14:13:23,994 CMD  172.18.0.1:36592 user=attacker sid=7f731557ec7f220367ec406838c2dbde cmd=clear
+2025-09-08 14:13:27,711 CMD  172.18.0.1:36592 user=attacker sid=7f731557ec7f220367ec406838c2dbde cmd=ls
+2025-09-08 14:13:36,833 CONN conn_close 172.18.0.1:36592 sid=7f731557ec7f220367ec406838c2dbde
+<134>1 2025-09-08T14:45:42Z e850dcdcfa18 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.18.0.1" src_port="39004" session_id="48c4c2c7b00b7dc92685fa7c53f4865b"] conn conn_open 172.18.0.1:39004 sid=48c4c2c7b00b7dc92685fa7c53f4865b
+<134>1 2025-09-08T14:45:42Z e850dcdcfa18 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.18.0.1" src_port="39004" session_id="48c4c2c7b00b7dc92685fa7c53f4865b" error="Connection lost"] conn conn_close 172.18.0.1:39004 sid=48c4c2c7b00b7dc92685fa7c53f4865b
+<134>1 2025-09-08T14:45:56Z e850dcdcfa18 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.18.0.1" src_port="43572" session_id="37b714248b295410acda30fd32214a66"] conn conn_open 172.18.0.1:43572 sid=37b714248b295410acda30fd32214a66
+<134>1 2025-09-08T14:45:57Z e850dcdcfa18 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.18.0.1" src_port="43572" session_id="37b714248b295410acda30fd32214a66" error="Connection lost"] conn conn_close 172.18.0.1:43572 sid=37b714248b295410acda30fd32214a66
+<134>1 2025-09-08T14:46:03Z e850dcdcfa18 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.18.0.1" src_port="43580" session_id="a2e0ea88d129ee06595990f40bd98532"] conn conn_open 172.18.0.1:43580 sid=a2e0ea88d129ee06595990f40bd98532
+<134>1 2025-09-08T14:46:03Z e850dcdcfa18 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.18.0.1" src_port="43580" session_id="a2e0ea88d129ee06595990f40bd98532" error="Connection lost"] conn conn_close 172.18.0.1:43580 sid=a2e0ea88d129ee06595990f40bd98532
+<134>1 2025-09-08T14:46:15Z e850dcdcfa18 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.18.0.1" src_port="36792" session_id="4baef0bfc879f73226f59905f5bd69ad"] conn conn_open 172.18.0.1:36792 sid=4baef0bfc879f73226f59905f5bd69ad
+<134>1 2025-09-08T14:46:18Z e850dcdcfa18 ssh-honeypot 1 auth [hp@32473 src_ip="172.18.0.1" src_port="36792" username="attacker" password="***" session_id="4baef0bfc879f73226f59905f5bd69ad"] auth 172.18.0.1:36792 user=attacker pass=*** sid=4baef0bfc879f73226f59905f5bd69ad
+<134>1 2025-09-08T14:46:20Z e850dcdcfa18 ssh-honeypot 1 cmd [hp@32473 src_ip="172.18.0.1" src_port="36792" username="attacker" cmd="sdfsd" session_id="4baef0bfc879f73226f59905f5bd69ad"] cmd 172.18.0.1:36792 user=attacker sid=4baef0bfc879f73226f59905f5bd69ad cmd=sdfsd
+<134>1 2025-09-08T14:46:22Z e850dcdcfa18 ssh-honeypot 1 cmd [hp@32473 src_ip="172.18.0.1" src_port="36792" username="attacker" cmd="ls" session_id="4baef0bfc879f73226f59905f5bd69ad"] cmd 172.18.0.1:36792 user=attacker sid=4baef0bfc879f73226f59905f5bd69ad cmd=ls
+<134>1 2025-09-08T14:46:25Z e850dcdcfa18 ssh-honeypot 1 cmd [hp@32473 src_ip="172.18.0.1" src_port="36792" username="attacker" session_id="4baef0bfc879f73226f59905f5bd69ad"] cmd 172.18.0.1:36792 user=attacker sid=4baef0bfc879f73226f59905f5bd69ad cmd=
+<134>1 2025-09-08T14:46:28Z e850dcdcfa18 ssh-honeypot 1 cmd [hp@32473 src_ip="172.18.0.1" src_port="36792" username="attacker" cmd="whoami" session_id="4baef0bfc879f73226f59905f5bd69ad"] cmd 172.18.0.1:36792 user=attacker sid=4baef0bfc879f73226f59905f5bd69ad cmd=whoami
+<134>1 2025-09-08T14:46:30Z e850dcdcfa18 ssh-honeypot 1 cmd [hp@32473 src_ip="172.18.0.1" src_port="36792" username="attacker" cmd="pwd" session_id="4baef0bfc879f73226f59905f5bd69ad"] cmd 172.18.0.1:36792 user=attacker sid=4baef0bfc879f73226f59905f5bd69ad cmd=pwd
+<134>1 2025-09-08T14:46:34Z e850dcdcfa18 ssh-honeypot 1 cmd [hp@32473 src_ip="172.18.0.1" src_port="36792" username="attacker" cmd="cd /root" session_id="4baef0bfc879f73226f59905f5bd69ad"] cmd 172.18.0.1:36792 user=attacker sid=4baef0bfc879f73226f59905f5bd69ad cmd=cd /root
+<134>1 2025-09-08T14:46:39Z e850dcdcfa18 ssh-honeypot 1 cmd [hp@32473 src_ip="172.18.0.1" src_port="36792" username="attacker" cmd="ssh -p 2222 attacker@127.0.0.1ssh -p 2222 attacker@127.0.0.1" session_id="4baef0bfc879f73226f59905f5bd69ad"] cmd 172.18.0.1:36792 user=attacker sid=4baef0bfc879f73226f59905f5bd69ad cmd=ssh -p 2222 attacker@127.0.0.1ssh -p 2222 attacker@127.0.0.1
+<134>1 2025-09-08T14:47:27Z e850dcdcfa18 ssh-honeypot 1 cmd [hp@32473 src_ip="172.18.0.1" src_port="36792" username="attacker" cmd="whoami" session_id="4baef0bfc879f73226f59905f5bd69ad"] cmd 172.18.0.1:36792 user=attacker sid=4baef0bfc879f73226f59905f5bd69ad cmd=whoami
+<134>1 2025-09-08T14:47:33Z e850dcdcfa18 ssh-honeypot 1 cmd [hp@32473 src_ip="172.18.0.1" src_port="36792" username="attacker" cmd="pwd" session_id="4baef0bfc879f73226f59905f5bd69ad"] cmd 172.18.0.1:36792 user=attacker sid=4baef0bfc879f73226f59905f5bd69ad cmd=pwd
+<134>1 2025-09-08T14:48:19Z e850dcdcfa18 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.18.0.1" src_port="36792" session_id="4baef0bfc879f73226f59905f5bd69ad"] conn conn_close 172.18.0.1:36792 sid=4baef0bfc879f73226f59905f5bd69ad
+2025-09-10 23:33:49,220 CONN conn_open 127.0.0.1:60878 sid=05d1e9890937969a4385386eab71d062
+2025-09-10 23:33:49,230 CONN conn_close 127.0.0.1:60878 sid=05d1e9890937969a4385386eab71d062
+2025-09-10 23:34:01,385 CONN conn_open 127.0.0.1:60886 sid=d533c2ffe364f609bf00ebad67f7f678
+2025-09-10 23:34:12,258 CONN conn_close 127.0.0.1:60886 sid=d533c2ffe364f609bf00ebad67f7f678
+2025-09-10 23:34:48,660 CONN conn_open 127.0.0.1:60924 sid=138a024b45e7dd31b3612e68b929ffb3
+2025-09-10 23:34:51,040 AUTH 127.0.0.1:60924 user=test pass=*** sid=138a024b45e7dd31b3612e68b929ffb3
+2025-09-10 23:34:52,293 CMD  127.0.0.1:60924 user=test sid=138a024b45e7dd31b3612e68b929ffb3 cmd=ls
+2025-09-10 23:34:54,300 CMD  127.0.0.1:60924 user=test sid=138a024b45e7dd31b3612e68b929ffb3 cmd=
+2025-09-10 23:34:55,211 CMD  127.0.0.1:60924 user=test sid=138a024b45e7dd31b3612e68b929ffb3 cmd=pwd
+2025-09-10 23:35:09,141 CMD  127.0.0.1:60924 user=test sid=138a024b45e7dd31b3612e68b929ffb3 cmd=pwd
+<134>1 2025-09-11T06:14:41Z 07e8e427a3e1 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="54686" session_id="46a4a5c465fee219b3824bba0bb1a062"] conn conn_open 172.21.0.1:54686 sid=46a4a5c465fee219b3824bba0bb1a062
+<134>1 2025-09-11T06:14:51Z 07e8e427a3e1 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="54686" session_id="46a4a5c465fee219b3824bba0bb1a062" error="Connection lost"] conn conn_close 172.21.0.1:54686 sid=46a4a5c465fee219b3824bba0bb1a062
+<134>1 2025-09-11T06:16:11Z 07e8e427a3e1 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="52554" session_id="c4089c68e794813f1a9e1180a44db517"] conn conn_open 172.21.0.1:52554 sid=c4089c68e794813f1a9e1180a44db517
+<134>1 2025-09-11T06:16:11Z 07e8e427a3e1 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="52554" session_id="c4089c68e794813f1a9e1180a44db517" error="Connection lost"] conn conn_close 172.21.0.1:52554 sid=c4089c68e794813f1a9e1180a44db517
+<134>1 2025-09-11T06:16:32Z 07e8e427a3e1 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="50784" session_id="78f495adae67081a7511a6fa5e6eb643"] conn conn_open 172.21.0.1:50784 sid=78f495adae67081a7511a6fa5e6eb643
+<134>1 2025-09-11T06:16:35Z 07e8e427a3e1 ssh-honeypot 1 auth [hp@32473 src_ip="172.21.0.1" src_port="50784" username="attacker" password="***" session_id="78f495adae67081a7511a6fa5e6eb643"] auth 172.21.0.1:50784 user=attacker pass=*** sid=78f495adae67081a7511a6fa5e6eb643
+<134>1 2025-09-11T06:16:37Z 07e8e427a3e1 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="50784" username="attacker" cmd="ls" session_id="78f495adae67081a7511a6fa5e6eb643"] cmd 172.21.0.1:50784 user=attacker sid=78f495adae67081a7511a6fa5e6eb643 cmd=ls
+<134>1 2025-09-11T06:16:38Z 07e8e427a3e1 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="50784" username="attacker" session_id="78f495adae67081a7511a6fa5e6eb643"] cmd 172.21.0.1:50784 user=attacker sid=78f495adae67081a7511a6fa5e6eb643 cmd=
+<134>1 2025-09-11T06:16:39Z 07e8e427a3e1 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="50784" username="attacker" cmd="pwd" session_id="78f495adae67081a7511a6fa5e6eb643"] cmd 172.21.0.1:50784 user=attacker sid=78f495adae67081a7511a6fa5e6eb643 cmd=pwd
+<134>1 2025-09-11T06:16:46Z 07e8e427a3e1 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="50784" username="attacker" cmd="dir" session_id="78f495adae67081a7511a6fa5e6eb643"] cmd 172.21.0.1:50784 user=attacker sid=78f495adae67081a7511a6fa5e6eb643 cmd=dir
+<134>1 2025-09-11T06:16:49Z 07e8e427a3e1 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="50784" username="attacker" cmd="whoami" session_id="78f495adae67081a7511a6fa5e6eb643"] cmd 172.21.0.1:50784 user=attacker sid=78f495adae67081a7511a6fa5e6eb643 cmd=whoami
+<134>1 2025-09-11T06:16:50Z 07e8e427a3e1 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="50784" username="attacker" cmd="cşs" session_id="78f495adae67081a7511a6fa5e6eb643"] cmd 172.21.0.1:50784 user=attacker sid=78f495adae67081a7511a6fa5e6eb643 cmd=cşs
+<134>1 2025-09-11T06:16:52Z 07e8e427a3e1 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="50784" username="attacker" cmd="cls" session_id="78f495adae67081a7511a6fa5e6eb643"] cmd 172.21.0.1:50784 user=attacker sid=78f495adae67081a7511a6fa5e6eb643 cmd=cls
+<134>1 2025-09-11T06:16:53Z 07e8e427a3e1 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="50784" username="attacker" session_id="78f495adae67081a7511a6fa5e6eb643"] cmd 172.21.0.1:50784 user=attacker sid=78f495adae67081a7511a6fa5e6eb643 cmd=
+<134>1 2025-09-11T06:18:35Z 07e8e427a3e1 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="50784" session_id="78f495adae67081a7511a6fa5e6eb643"] conn conn_close 172.21.0.1:50784 sid=78f495adae67081a7511a6fa5e6eb643
+<134>1 2025-09-11T06:23:59Z 817d45be9481 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="56402" session_id="a158ff6d1677c44e79a68363551d2f40"] conn conn_open 172.21.0.1:56402 sid=a158ff6d1677c44e79a68363551d2f40
+<134>1 2025-09-11T06:24:12Z 817d45be9481 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="56402" session_id="a158ff6d1677c44e79a68363551d2f40" error="Connection lost"] conn conn_close 172.21.0.1:56402 sid=a158ff6d1677c44e79a68363551d2f40
+<134>1 2025-09-11T06:25:28Z 817d45be9481 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="46412" session_id="d0abea064d2f8e07d308095519ea1ea7"] conn conn_open 172.21.0.1:46412 sid=d0abea064d2f8e07d308095519ea1ea7
+<134>1 2025-09-11T06:25:28Z 817d45be9481 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="46412" session_id="d0abea064d2f8e07d308095519ea1ea7" error="Connection lost"] conn conn_close 172.21.0.1:46412 sid=d0abea064d2f8e07d308095519ea1ea7
+<134>1 2025-09-11T06:25:34Z 817d45be9481 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="46422" session_id="168d8d3730c97f053ed91eeaee3b0973"] conn conn_open 172.21.0.1:46422 sid=168d8d3730c97f053ed91eeaee3b0973
+<134>1 2025-09-11T06:25:37Z 817d45be9481 ssh-honeypot 1 auth [hp@32473 src_ip="172.21.0.1" src_port="46422" username="attacker" password="***" session_id="168d8d3730c97f053ed91eeaee3b0973"] auth 172.21.0.1:46422 user=attacker pass=*** sid=168d8d3730c97f053ed91eeaee3b0973
+<134>1 2025-09-11T06:25:38Z 817d45be9481 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="46422" username="attacker" cmd="ss" session_id="168d8d3730c97f053ed91eeaee3b0973"] cmd 172.21.0.1:46422 user=attacker sid=168d8d3730c97f053ed91eeaee3b0973 cmd=ss
+<134>1 2025-09-11T06:25:40Z 817d45be9481 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="46422" username="attacker" cmd="pwd" session_id="168d8d3730c97f053ed91eeaee3b0973"] cmd 172.21.0.1:46422 user=attacker sid=168d8d3730c97f053ed91eeaee3b0973 cmd=pwd
+<134>1 2025-09-11T06:25:42Z 817d45be9481 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="46422" username="attacker" cmd="cd " session_id="168d8d3730c97f053ed91eeaee3b0973"] cmd 172.21.0.1:46422 user=attacker sid=168d8d3730c97f053ed91eeaee3b0973 cmd=cd 
+<134>1 2025-09-11T06:25:44Z 817d45be9481 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="46422" username="attacker" cmd="pwd" session_id="168d8d3730c97f053ed91eeaee3b0973"] cmd 172.21.0.1:46422 user=attacker sid=168d8d3730c97f053ed91eeaee3b0973 cmd=pwd
+<134>1 2025-09-11T06:25:46Z 817d45be9481 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="46422" username="attacker" cmd="cd" session_id="168d8d3730c97f053ed91eeaee3b0973"] cmd 172.21.0.1:46422 user=attacker sid=168d8d3730c97f053ed91eeaee3b0973 cmd=cd
+<134>1 2025-09-11T06:27:07Z 817d45be9481 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="46422" session_id="168d8d3730c97f053ed91eeaee3b0973"] conn conn_close 172.21.0.1:46422 sid=168d8d3730c97f053ed91eeaee3b0973
+<134>1 2025-09-11T06:28:16Z 817d45be9481 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="37606" session_id="937259ae26be7c13bab850faaed3bdf2"] conn conn_open 172.21.0.1:37606 sid=937259ae26be7c13bab850faaed3bdf2
+<134>1 2025-09-11T06:28:18Z 817d45be9481 ssh-honeypot 1 auth [hp@32473 src_ip="172.21.0.1" src_port="37606" username="attacker" password="***" session_id="937259ae26be7c13bab850faaed3bdf2"] auth 172.21.0.1:37606 user=attacker pass=*** sid=937259ae26be7c13bab850faaed3bdf2
+<134>1 2025-09-11T06:28:26Z 817d45be9481 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="37606" username="attacker" cmd="netstat" session_id="937259ae26be7c13bab850faaed3bdf2"] cmd 172.21.0.1:37606 user=attacker sid=937259ae26be7c13bab850faaed3bdf2 cmd=netstat
+<134>1 2025-09-11T06:28:26Z 817d45be9481 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="37606" username="attacker" cmd="ss" session_id="937259ae26be7c13bab850faaed3bdf2"] cmd 172.21.0.1:37606 user=attacker sid=937259ae26be7c13bab850faaed3bdf2 cmd=ss
+<134>1 2025-09-11T06:28:28Z 817d45be9481 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="37606" username="attacker" cmd="uname" session_id="937259ae26be7c13bab850faaed3bdf2"] cmd 172.21.0.1:37606 user=attacker sid=937259ae26be7c13bab850faaed3bdf2 cmd=uname
+<134>1 2025-09-11T06:28:31Z 817d45be9481 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="37606" username="attacker" cmd="id" session_id="937259ae26be7c13bab850faaed3bdf2"] cmd 172.21.0.1:37606 user=attacker sid=937259ae26be7c13bab850faaed3bdf2 cmd=id
+<134>1 2025-09-11T06:28:32Z 817d45be9481 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="37606" username="attacker" cmd="whoami" session_id="937259ae26be7c13bab850faaed3bdf2"] cmd 172.21.0.1:37606 user=attacker sid=937259ae26be7c13bab850faaed3bdf2 cmd=whoami
+<134>1 2025-09-11T06:28:34Z 817d45be9481 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="37606" username="attacker" cmd="admin" session_id="937259ae26be7c13bab850faaed3bdf2"] cmd 172.21.0.1:37606 user=attacker sid=937259ae26be7c13bab850faaed3bdf2 cmd=admin
+<134>1 2025-09-11T06:28:35Z 817d45be9481 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="37606" username="attacker" cmd="root" session_id="937259ae26be7c13bab850faaed3bdf2"] cmd 172.21.0.1:37606 user=attacker sid=937259ae26be7c13bab850faaed3bdf2 cmd=root
+<134>1 2025-09-11T06:28:39Z 817d45be9481 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="37606" username="attacker" cmd="cat" session_id="937259ae26be7c13bab850faaed3bdf2"] cmd 172.21.0.1:37606 user=attacker sid=937259ae26be7c13bab850faaed3bdf2 cmd=cat
+<134>1 2025-09-11T06:30:18Z 817d45be9481 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="37606" session_id="937259ae26be7c13bab850faaed3bdf2"] conn conn_close 172.21.0.1:37606 sid=937259ae26be7c13bab850faaed3bdf2
+<134>1 2025-09-11T06:34:58Z f2c57f4798e6 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="49290" session_id="d14e35466c47e7c6ad5b8886a3e1cc39"] conn conn_open 172.21.0.1:49290 sid=d14e35466c47e7c6ad5b8886a3e1cc39
+<134>1 2025-09-11T06:35:11Z f2c57f4798e6 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="49290" session_id="d14e35466c47e7c6ad5b8886a3e1cc39" error="Connection lost"] conn conn_close 172.21.0.1:49290 sid=d14e35466c47e7c6ad5b8886a3e1cc39
+<134>1 2025-09-11T06:35:58Z f2c57f4798e6 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="33608" session_id="e2a51363e5ed2fc109b3a1dffe910c3f"] conn conn_open 172.21.0.1:33608 sid=e2a51363e5ed2fc109b3a1dffe910c3f
+<134>1 2025-09-11T06:36:01Z f2c57f4798e6 ssh-honeypot 1 auth [hp@32473 src_ip="172.21.0.1" src_port="33608" username="attacker" password="***" session_id="e2a51363e5ed2fc109b3a1dffe910c3f"] auth 172.21.0.1:33608 user=attacker pass=*** sid=e2a51363e5ed2fc109b3a1dffe910c3f
+<134>1 2025-09-11T06:36:02Z f2c57f4798e6 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="33608" username="attacker" cmd="ls" session_id="e2a51363e5ed2fc109b3a1dffe910c3f"] cmd 172.21.0.1:33608 user=attacker sid=e2a51363e5ed2fc109b3a1dffe910c3f cmd=ls
+<134>1 2025-09-11T06:36:04Z f2c57f4798e6 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="33608" username="attacker" cmd="pwd" session_id="e2a51363e5ed2fc109b3a1dffe910c3f"] cmd 172.21.0.1:33608 user=attacker sid=e2a51363e5ed2fc109b3a1dffe910c3f cmd=pwd
+<134>1 2025-09-11T06:36:11Z f2c57f4798e6 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="33608" username="attacker" cmd="pwd" session_id="e2a51363e5ed2fc109b3a1dffe910c3f"] cmd 172.21.0.1:33608 user=attacker sid=e2a51363e5ed2fc109b3a1dffe910c3f cmd=pwd
+<134>1 2025-09-11T06:36:17Z f2c57f4798e6 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="33608" username="attacker" cmd="whoami" session_id="e2a51363e5ed2fc109b3a1dffe910c3f"] cmd 172.21.0.1:33608 user=attacker sid=e2a51363e5ed2fc109b3a1dffe910c3f cmd=whoami
+<134>1 2025-09-11T06:37:04Z f2c57f4798e6 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="33608" username="attacker" cmd="ls" session_id="e2a51363e5ed2fc109b3a1dffe910c3f"] cmd 172.21.0.1:33608 user=attacker sid=e2a51363e5ed2fc109b3a1dffe910c3f cmd=ls
+<134>1 2025-09-11T06:37:05Z f2c57f4798e6 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="33608" username="attacker" session_id="e2a51363e5ed2fc109b3a1dffe910c3f"] cmd 172.21.0.1:33608 user=attacker sid=e2a51363e5ed2fc109b3a1dffe910c3f cmd=
+<134>1 2025-09-11T06:37:06Z f2c57f4798e6 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="33608" username="attacker" cmd="pwd" session_id="e2a51363e5ed2fc109b3a1dffe910c3f"] cmd 172.21.0.1:33608 user=attacker sid=e2a51363e5ed2fc109b3a1dffe910c3f cmd=pwd
+<134>1 2025-09-11T06:37:07Z f2c57f4798e6 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="33608" username="attacker" session_id="e2a51363e5ed2fc109b3a1dffe910c3f"] cmd 172.21.0.1:33608 user=attacker sid=e2a51363e5ed2fc109b3a1dffe910c3f cmd=
+<134>1 2025-09-11T06:38:01Z f2c57f4798e6 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="33608" session_id="e2a51363e5ed2fc109b3a1dffe910c3f"] conn conn_close 172.21.0.1:33608 sid=e2a51363e5ed2fc109b3a1dffe910c3f
+<134>1 2025-09-11T06:40:09Z e372bc9e4683 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="51134" session_id="e171142e3e38987a7c630bbd84cbfd86"] conn conn_open 172.21.0.1:51134 sid=e171142e3e38987a7c630bbd84cbfd86
+<134>1 2025-09-11T06:40:22Z e372bc9e4683 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="51134" session_id="e171142e3e38987a7c630bbd84cbfd86" error="Connection lost"] conn conn_close 172.21.0.1:51134 sid=e171142e3e38987a7c630bbd84cbfd86
+<134>1 2025-09-11T06:41:50Z 1abb8f6f9713 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="51422" session_id="9c0778d299ac338b1c4278832575c30f"] conn conn_open 172.21.0.1:51422 sid=9c0778d299ac338b1c4278832575c30f
+<134>1 2025-09-11T06:42:02Z 1abb8f6f9713 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="51422" session_id="9c0778d299ac338b1c4278832575c30f" error="Connection lost"] conn conn_close 172.21.0.1:51422 sid=9c0778d299ac338b1c4278832575c30f
+<134>1 2025-09-11T06:42:24Z 1abb8f6f9713 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="34822" session_id="2b54fabd9c3edd050227af65b9049d97"] conn conn_open 172.21.0.1:34822 sid=2b54fabd9c3edd050227af65b9049d97
+<134>1 2025-09-11T06:42:24Z 1abb8f6f9713 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="34822" session_id="2b54fabd9c3edd050227af65b9049d97" error="Connection lost"] conn conn_close 172.21.0.1:34822 sid=2b54fabd9c3edd050227af65b9049d97
+<134>1 2025-09-11T06:42:28Z 1abb8f6f9713 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="41338" session_id="07c9600df46d3fd36b338db54e792a28"] conn conn_open 172.21.0.1:41338 sid=07c9600df46d3fd36b338db54e792a28
+<134>1 2025-09-11T06:42:30Z 1abb8f6f9713 ssh-honeypot 1 auth [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" password="***" session_id="07c9600df46d3fd36b338db54e792a28"] auth 172.21.0.1:41338 user=attacker pass=*** sid=07c9600df46d3fd36b338db54e792a28
+<134>1 2025-09-11T06:42:31Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="ls" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=ls
+<134>1 2025-09-11T06:42:32Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=
+<134>1 2025-09-11T06:42:33Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="pwd" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=pwd
+<134>1 2025-09-11T06:42:33Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=
+<134>1 2025-09-11T06:42:44Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="pwd" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=pwd
+<134>1 2025-09-11T06:42:45Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="şs" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=şs
+<134>1 2025-09-11T06:42:46Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="ls" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=ls
+<134>1 2025-09-11T06:42:47Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=
+<134>1 2025-09-11T06:42:47Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="ls" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=ls
+<134>1 2025-09-11T06:42:48Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=
+<134>1 2025-09-11T06:43:18Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="pw" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=pw
+<134>1 2025-09-11T06:43:20Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="ls" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=ls
+<134>1 2025-09-11T06:43:20Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=
+<134>1 2025-09-11T06:43:21Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="ss" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=ss
+<134>1 2025-09-11T06:43:21Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=
+<134>1 2025-09-11T06:43:22Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="s" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=s
+<134>1 2025-09-11T06:43:22Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="s" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=s
+<134>1 2025-09-11T06:43:22Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="s" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=s
+<134>1 2025-09-11T06:43:22Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="s" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=s
+<134>1 2025-09-11T06:43:22Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="s" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=s
+<134>1 2025-09-11T06:43:22Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="s" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=s
+<134>1 2025-09-11T06:43:23Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="s" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=s
+<134>1 2025-09-11T06:44:24Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="s" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=s
+<134>1 2025-09-11T06:44:25Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="s" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=s
+<134>1 2025-09-11T06:44:25Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="s" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=s
+<134>1 2025-09-11T06:44:25Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="s" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=s
+<134>1 2025-09-11T06:44:27Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="41338" username="attacker" cmd="pwd" session_id="07c9600df46d3fd36b338db54e792a28"] cmd 172.21.0.1:41338 user=attacker sid=07c9600df46d3fd36b338db54e792a28 cmd=pwd
+<134>1 2025-09-11T06:44:30Z 1abb8f6f9713 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="41338" session_id="07c9600df46d3fd36b338db54e792a28"] conn conn_close 172.21.0.1:41338 sid=07c9600df46d3fd36b338db54e792a28
+<134>1 2025-09-11T06:44:55Z 1abb8f6f9713 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="40116" session_id="960342e0b9418d23d7d6bfcdcbea7709"] conn conn_open 172.21.0.1:40116 sid=960342e0b9418d23d7d6bfcdcbea7709
+<134>1 2025-09-11T06:44:56Z 1abb8f6f9713 ssh-honeypot 1 auth [hp@32473 src_ip="172.21.0.1" src_port="40116" username="attacker" password="***" session_id="960342e0b9418d23d7d6bfcdcbea7709"] auth 172.21.0.1:40116 user=attacker pass=*** sid=960342e0b9418d23d7d6bfcdcbea7709
+<134>1 2025-09-11T06:44:57Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="40116" username="attacker" cmd="ss" session_id="960342e0b9418d23d7d6bfcdcbea7709"] cmd 172.21.0.1:40116 user=attacker sid=960342e0b9418d23d7d6bfcdcbea7709 cmd=ss
+<134>1 2025-09-11T06:44:57Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="40116" username="attacker" cmd="ss" session_id="960342e0b9418d23d7d6bfcdcbea7709"] cmd 172.21.0.1:40116 user=attacker sid=960342e0b9418d23d7d6bfcdcbea7709 cmd=ss
+<134>1 2025-09-11T06:45:26Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="40116" username="attacker" cmd="exit" session_id="960342e0b9418d23d7d6bfcdcbea7709"] cmd 172.21.0.1:40116 user=attacker sid=960342e0b9418d23d7d6bfcdcbea7709 cmd=exit
+<134>1 2025-09-11T06:45:26Z 1abb8f6f9713 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="40116" session_id="960342e0b9418d23d7d6bfcdcbea7709"] conn conn_close 172.21.0.1:40116 sid=960342e0b9418d23d7d6bfcdcbea7709
+<134>1 2025-09-11T06:45:35Z 1abb8f6f9713 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="50918" session_id="ddb9e9a88887ec4edaf9f0a2c1c881f0"] conn conn_open 172.21.0.1:50918 sid=ddb9e9a88887ec4edaf9f0a2c1c881f0
+<134>1 2025-09-11T06:45:35Z 1abb8f6f9713 ssh-honeypot 1 auth [hp@32473 src_ip="172.21.0.1" src_port="50918" username="admin" password="***" session_id="ddb9e9a88887ec4edaf9f0a2c1c881f0"] auth 172.21.0.1:50918 user=admin pass=*** sid=ddb9e9a88887ec4edaf9f0a2c1c881f0
+<134>1 2025-09-11T06:45:36Z 1abb8f6f9713 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="50918" username="admin" cmd="ss" session_id="ddb9e9a88887ec4edaf9f0a2c1c881f0"] cmd 172.21.0.1:50918 user=admin sid=ddb9e9a88887ec4edaf9f0a2c1c881f0 cmd=ss
+<134>1 2025-09-11T06:47:36Z 1abb8f6f9713 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="50918" session_id="ddb9e9a88887ec4edaf9f0a2c1c881f0"] conn conn_close 172.21.0.1:50918 sid=ddb9e9a88887ec4edaf9f0a2c1c881f0
+<134>1 2025-09-11T06:48:44Z 5fe5e241ce2e ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="49740" session_id="bd5b745bf881232ee84d0e7872abe71f"] conn conn_open 172.21.0.1:49740 sid=bd5b745bf881232ee84d0e7872abe71f
+<134>1 2025-09-11T06:48:57Z 5fe5e241ce2e ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="49740" session_id="bd5b745bf881232ee84d0e7872abe71f" error="Connection lost"] conn conn_close 172.21.0.1:49740 sid=bd5b745bf881232ee84d0e7872abe71f
+<134>1 2025-09-11T06:53:22Z a78bdefb8030 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="57068" session_id="1c8ae1bf030b78ce2cfc1d7555d4e645"] conn conn_open 172.21.0.1:57068 sid=1c8ae1bf030b78ce2cfc1d7555d4e645
+<134>1 2025-09-11T06:53:34Z a78bdefb8030 ssh-honeypot 1 conn_close [hp@32473 src_ip="172.21.0.1" src_port="57068" session_id="1c8ae1bf030b78ce2cfc1d7555d4e645" error="Connection lost"] conn conn_close 172.21.0.1:57068 sid=1c8ae1bf030b78ce2cfc1d7555d4e645
+<134>1 2025-09-11T06:54:47Z a78bdefb8030 ssh-honeypot 1 conn_open [hp@32473 src_ip="172.21.0.1" src_port="47648" session_id="a8ddd485e9d85769f695b7e0533e5fa4"] conn conn_open 172.21.0.1:47648 sid=a8ddd485e9d85769f695b7e0533e5fa4
+<134>1 2025-09-11T06:54:49Z a78bdefb8030 ssh-honeypot 1 auth [hp@32473 src_ip="172.21.0.1" src_port="47648" username="attacker" password="***" session_id="a8ddd485e9d85769f695b7e0533e5fa4"] auth 172.21.0.1:47648 user=attacker pass=*** sid=a8ddd485e9d85769f695b7e0533e5fa4
+<134>1 2025-09-11T06:54:50Z a78bdefb8030 ssh-honeypot 1 cmd [hp@32473 src_ip="172.21.0.1" src_port="47648" username="attacker" cmd="s" session_id="a8ddd485e9d85769f695b7e0533e5fa4"] cmd 172.21.0.1:47648 user=attacker sid=a8ddd485e9d85769f695b7e0533e5fa4 cmd=s
+2025-09-11 07:15:07,469 CONN conn_open 172.21.0.1:53644 sid=c6ccc91aaf227bdd00d361542098f739
+2025-09-11 07:15:09,549 AUTH 172.21.0.1:53644 user=attacker pass=*** sid=c6ccc91aaf227bdd00d361542098f739
+2025-09-11 07:15:10,858 CMD  172.21.0.1:53644 user=attacker sid=c6ccc91aaf227bdd00d361542098f739 cmd=pwd
+2025-09-11 07:15:42,072 CMD  172.21.0.1:53644 user=attacker sid=c6ccc91aaf227bdd00d361542098f739 cmd=ls
+2025-09-11 07:15:52,154 CONN conn_close 172.21.0.1:53644 sid=c6ccc91aaf227bdd00d361542098f739
+2025-09-12 12:58:26,416 CONN conn_open 172.21.0.1:38812 sid=9b34bbc4259ef20519b41ae55ee93db7
+2025-09-12 12:58:26,459 CONN conn_close 172.21.0.1:38812 sid=9b34bbc4259ef20519b41ae55ee93db7
+2025-09-12 12:58:33,306 CONN conn_open 172.21.0.1:49582 sid=94f71625d0c05e52f776af74831b4a33
+2025-09-12 12:58:33,328 CONN conn_close 172.21.0.1:49582 sid=94f71625d0c05e52f776af74831b4a33
+2025-09-12 12:58:34,859 CONN conn_open 172.21.0.1:49592 sid=234ed1bffd778770e334f7198ebc3ed6
+2025-09-12 12:58:34,886 CONN conn_close 172.21.0.1:49592 sid=234ed1bffd778770e334f7198ebc3ed6
+2025-09-12 12:58:52,860 CONN conn_open 172.21.0.1:39730 sid=76282ec40a64b541a64939712f26dd09
+2025-09-12 12:58:55,454 AUTH 172.21.0.1:39730 user=attacker pass=*** sid=76282ec40a64b541a64939712f26dd09
+2025-09-12 12:58:58,173 CMD  172.21.0.1:39730 user=attacker sid=76282ec40a64b541a64939712f26dd09 cmd=pwd
+2025-09-12 12:59:00,309 CMD  172.21.0.1:39730 user=attacker sid=76282ec40a64b541a64939712f26dd09 cmd=whoami
+2025-09-12 13:00:41,226 CMD  172.21.0.1:39730 user=attacker sid=76282ec40a64b541a64939712f26dd09 cmd=ls
+2025-09-12 13:00:55,501 CONN conn_close 172.21.0.1:39730 sid=76282ec40a64b541a64939712f26dd09
+2025-09-12 13:01:22,763 CONN conn_open 172.21.0.1:54076 sid=2e69e03a20ade70a6ad0370e0ff7d4d6
+2025-09-12 13:01:23,947 AUTH 172.21.0.1:54076 user=attacker pass=*** sid=2e69e03a20ade70a6ad0370e0ff7d4d6
+2025-09-12 13:01:25,255 CMD  172.21.0.1:54076 user=attacker sid=2e69e03a20ade70a6ad0370e0ff7d4d6 cmd=ys
+2025-09-12 13:01:35,481 CMD  172.21.0.1:54076 user=attacker sid=2e69e03a20ade70a6ad0370e0ff7d4d6 cmd=ls
+2025-09-12 13:01:41,487 CMD  172.21.0.1:54076 user=attacker sid=2e69e03a20ade70a6ad0370e0ff7d4d6 cmd=sss
+2025-09-12 13:01:41,795 CMD  172.21.0.1:54076 user=attacker sid=2e69e03a20ade70a6ad0370e0ff7d4d6 cmd=
+2025-09-12 13:01:42,231 CMD  172.21.0.1:54076 user=attacker sid=2e69e03a20ade70a6ad0370e0ff7d4d6 cmd=s
+2025-09-12 13:01:42,292 CMD  172.21.0.1:54076 user=attacker sid=2e69e03a20ade70a6ad0370e0ff7d4d6 cmd=
+2025-09-12 13:01:43,948 CMD  172.21.0.1:54076 user=attacker sid=2e69e03a20ade70a6ad0370e0ff7d4d6 cmd=cls
+2025-09-12 13:03:24,073 CONN conn_close 172.21.0.1:54076 sid=2e69e03a20ade70a6ad0370e0ff7d4d6
+2025-09-12 13:03:26,941 CONN conn_open 172.21.0.1:40612 sid=c61c296ce1a6ac1302184dd798f2b0a3
+2025-09-12 13:03:27,001 CONN conn_close 172.21.0.1:40612 sid=c61c296ce1a6ac1302184dd798f2b0a3
+2025-09-12 13:03:37,593 CONN conn_open 172.21.0.1:55070 sid=bffa4541aa497885aa3eb74b7c5e9517
+2025-09-12 13:03:48,907 CONN conn_close 172.21.0.1:55070 sid=bffa4541aa497885aa3eb74b7c5e9517
+2025-09-12 13:04:10,650 CONN conn_open 172.21.0.1:36852 sid=52d5a06689266a4c1f69a527148c80a2
+2025-09-12 13:04:12,000 AUTH 172.21.0.1:36852 user=attacker pass=*** sid=52d5a06689266a4c1f69a527148c80a2
+2025-09-12 13:04:14,883 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=ls
+2025-09-12 13:04:15,998 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=
+2025-09-12 13:04:17,897 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=pwd
+2025-09-12 13:04:22,820 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=cd /root
+2025-09-12 13:04:23,705 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=ls
+2025-09-12 13:04:25,177 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=
+2025-09-12 13:04:26,940 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=
+2025-09-12 13:04:38,831 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=cd ..
+2025-09-12 13:04:39,793 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=l
+2025-09-12 13:04:41,153 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=cd ..
+2025-09-12 13:04:41,589 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=
+2025-09-12 13:04:42,200 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=ls
+2025-09-12 13:04:42,542 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=
+2025-09-12 13:04:43,756 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=pwd
+2025-09-12 13:04:45,042 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=
+2025-09-12 13:05:02,917 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=cd /home/admin
+2025-09-12 13:05:04,809 CMD  172.21.0.1:36852 user=attacker sid=52d5a06689266a4c1f69a527148c80a2 cmd=
+2025-09-12 13:09:39,364 CONN conn_open 172.20.0.1:58360 sid=71e08fcc68ce3efb67eae097394944d7
+2025-09-12 13:09:39,477 CONN conn_close 172.20.0.1:58360 sid=71e08fcc68ce3efb67eae097394944d7
+2025-09-12 13:09:52,413 CONN conn_open 172.20.0.1:51598 sid=032ffeea2d8945214d144ede8d218ee4
+2025-09-12 13:10:06,286 CONN conn_close 172.20.0.1:51598 sid=032ffeea2d8945214d144ede8d218ee4
+2025-09-12 13:10:47,086 CONN conn_open 172.20.0.1:45866 sid=d685dde0525cbba628dd41726bd8a1c6
+2025-09-12 13:10:47,114 CONN conn_close 172.20.0.1:45866 sid=d685dde0525cbba628dd41726bd8a1c6
+2025-09-12 13:10:57,895 CONN conn_open 172.20.0.1:36382 sid=9e4ec6a0118adef9777df30b4e030379
+2025-09-12 13:11:02,147 AUTH 172.20.0.1:36382 user=attacker pass=*** sid=9e4ec6a0118adef9777df30b4e030379
+2025-09-12 13:11:03,597 CMD  172.20.0.1:36382 user=attacker sid=9e4ec6a0118adef9777df30b4e030379 cmd=ls
+2025-09-12 13:11:04,601 CMD  172.20.0.1:36382 user=attacker sid=9e4ec6a0118adef9777df30b4e030379 cmd=
+2025-09-12 13:11:05,312 CMD  172.20.0.1:36382 user=attacker sid=9e4ec6a0118adef9777df30b4e030379 cmd=pw
+2025-09-12 13:11:06,329 CMD  172.20.0.1:36382 user=attacker sid=9e4ec6a0118adef9777df30b4e030379 cmd=pwd
+2025-09-12 13:11:07,286 CMD  172.20.0.1:36382 user=attacker sid=9e4ec6a0118adef9777df30b4e030379 cmd=ls
+2025-09-12 13:11:07,836 CMD  172.20.0.1:36382 user=attacker sid=9e4ec6a0118adef9777df30b4e030379 cmd=
+2025-09-12 13:11:09,871 CMD  172.20.0.1:36382 user=attacker sid=9e4ec6a0118adef9777df30b4e030379 cmd=cd ..
+2025-09-12 13:11:10,580 CMD  172.20.0.1:36382 user=attacker sid=9e4ec6a0118adef9777df30b4e030379 cmd=
+2025-09-12 13:11:11,139 CMD  172.20.0.1:36382 user=attacker sid=9e4ec6a0118adef9777df30b4e030379 cmd=ls
+2025-09-12 13:11:11,312 CMD  172.20.0.1:36382 user=attacker sid=9e4ec6a0118adef9777df30b4e030379 cmd=
+2025-09-12 13:11:11,980 CMD  172.20.0.1:36382 user=attacker sid=9e4ec6a0118adef9777df30b4e030379 cmd=cd 
+2025-09-12 13:11:12,251 CMD  172.20.0.1:36382 user=attacker sid=9e4ec6a0118adef9777df30b4e030379 cmd=
+2025-09-12 13:13:02,188 CONN conn_close 172.20.0.1:36382 sid=9e4ec6a0118adef9777df30b4e030379
+2025-09-12 13:21:37,309 CONN conn_open 172.20.0.1:41520 sid=6c6b3f6c54d5114fb502c54d2aa90e69
+2025-09-12 13:21:48,741 CONN conn_close 172.20.0.1:41520 sid=6c6b3f6c54d5114fb502c54d2aa90e69
+2025-09-12 13:32:38,520 CONN conn_open 172.20.0.1:33308 sid=6281cb06b7dc5b855fed9f57485f6dd6
+2025-09-12 13:32:41,224 AUTH 172.20.0.1:33308 user=attacker pass=*** sid=6281cb06b7dc5b855fed9f57485f6dd6
+2025-09-12 13:32:42,296 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=ls
+2025-09-12 13:32:43,031 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=
+2025-09-12 13:32:43,787 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=pwd
+2025-09-12 13:32:44,380 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=
+2025-09-12 13:32:51,709 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=pwd
+2025-09-12 13:33:03,623 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=pwd
+2025-09-12 13:33:06,284 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=cd ..
+2025-09-12 13:33:06,960 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=
+2025-09-12 13:33:07,956 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=cd ..
+2025-09-12 13:33:08,292 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=
+2025-09-12 13:33:09,325 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=cd /
+2025-09-12 13:33:10,081 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=
+2025-09-12 13:33:10,665 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=ls
+2025-09-12 13:33:11,112 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=
+2025-09-12 13:33:12,973 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=pwd
+2025-09-12 13:33:13,643 CMD  172.20.0.1:33308 user=attacker sid=6281cb06b7dc5b855fed9f57485f6dd6 cmd=
+2025-09-12 13:34:41,346 CONN conn_close 172.20.0.1:33308 sid=6281cb06b7dc5b855fed9f57485f6dd6
+2025-09-12 13:34:46,460 CONN conn_open 172.20.0.1:58144 sid=853bfeba5f2b20ac2f42b4aecf69ab4a
+2025-09-12 13:34:47,132 AUTH 172.20.0.1:58144 user=attacker pass=*** sid=853bfeba5f2b20ac2f42b4aecf69ab4a
+2025-09-12 13:34:49,325 CMD  172.20.0.1:58144 user=attacker sid=853bfeba5f2b20ac2f42b4aecf69ab4a cmd=cd /home/admin
+2025-09-12 13:34:50,474 CMD  172.20.0.1:58144 user=attacker sid=853bfeba5f2b20ac2f42b4aecf69ab4a cmd=
+2025-09-12 13:34:52,195 CMD  172.20.0.1:58144 user=attacker sid=853bfeba5f2b20ac2f42b4aecf69ab4a cmd=ls
+2025-09-12 13:34:52,694 CMD  172.20.0.1:58144 user=attacker sid=853bfeba5f2b20ac2f42b4aecf69ab4a cmd=
+2025-09-12 13:34:53,567 CMD  172.20.0.1:58144 user=attacker sid=853bfeba5f2b20ac2f42b4aecf69ab4a cmd=ls
+2025-09-12 13:34:55,288 CMD  172.20.0.1:58144 user=attacker sid=853bfeba5f2b20ac2f42b4aecf69ab4a cmd=
+2025-09-12 13:44:52,533 CONN conn_open 172.20.0.1:44644 sid=9f1de123d435e9173071cbf0fc9c3484
+2025-09-12 13:45:03,386 CONN conn_close 172.20.0.1:44644 sid=9f1de123d435e9173071cbf0fc9c3484
+2025-09-12 13:46:16,738 CONN conn_open 172.20.0.1:35398 sid=b1c3532ca677e832fb366a7ca9bfda81
+2025-09-12 13:46:20,486 AUTH 172.20.0.1:35398 user=attacker pass=*** sid=b1c3532ca677e832fb366a7ca9bfda81
+2025-09-12 13:46:21,193 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=s
+2025-09-12 13:46:22,466 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=pwd
+2025-09-12 13:46:23,178 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=
+2025-09-12 13:46:23,903 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=ls
+2025-09-12 13:46:25,897 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=cd ..
+2025-09-12 13:46:27,923 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=ls
+2025-09-12 13:46:29,387 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=pwd
+2025-09-12 13:46:37,992 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=ls
+2025-09-12 13:46:40,768 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=cd bin
+2025-09-12 13:46:41,287 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=ls
+2025-09-12 13:46:44,317 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=cd bin
+2025-09-12 13:46:45,898 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=ls
+2025-09-12 13:46:48,320 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=cd ..
+2025-09-12 13:46:49,118 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=ls
+2025-09-12 13:46:50,439 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=cd home
+2025-09-12 13:46:50,905 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=ls
+2025-09-12 13:46:55,403 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=cd /home
+2025-09-12 13:46:56,666 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=ls
+2025-09-12 13:46:59,122 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=cd var
+2025-09-12 13:47:01,722 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=ls
+2025-09-12 13:47:03,356 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=cd home
+2025-09-12 13:47:06,319 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=cd ..
+2025-09-12 13:47:07,115 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=ls
+2025-09-12 13:47:08,950 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=pwd
+2025-09-12 13:47:13,968 CMD  172.20.0.1:35398 user=attacker sid=b1c3532ca677e832fb366a7ca9bfda81 cmd=cd bin
+2025-09-12 13:48:20,586 CONN conn_close 172.20.0.1:35398 sid=b1c3532ca677e832fb366a7ca9bfda81
+2025-09-12 13:48:43,209 CONN conn_open 172.20.0.1:40640 sid=0e9a1b1e794dfa9a5f1beec6b3162eea
+2025-09-12 13:48:53,821 CONN conn_close 172.20.0.1:40640 sid=0e9a1b1e794dfa9a5f1beec6b3162eea
+2025-09-12 13:49:10,417 CONN conn_open 172.20.0.1:35968 sid=43994ec739fa9647265b35cb74732038
+2025-09-12 13:49:22,014 CONN conn_close 172.20.0.1:35968 sid=43994ec739fa9647265b35cb74732038
+2025-09-12 13:50:08,426 CONN conn_open 172.20.0.1:57416 sid=6d5b4d0e6dae6c50ab33f6b73654df47
+2025-09-12 13:50:21,204 CONN conn_close 172.20.0.1:57416 sid=6d5b4d0e6dae6c50ab33f6b73654df47
+2025-09-12 13:50:48,202 CONN conn_open 172.20.0.1:51248 sid=090405122fbf8de8f4d1535c91e04fa2
+2025-09-12 13:50:59,919 CONN conn_close 172.20.0.1:51248 sid=090405122fbf8de8f4d1535c91e04fa2
+2025-09-12 13:51:25,141 CONN conn_open 172.20.0.1:51152 sid=36f9883da358040a9ec0723e6db0d2d5
+2025-09-12 13:51:28,415 AUTH 172.20.0.1:51152 user=attacker pass=*** sid=36f9883da358040a9ec0723e6db0d2d5
+2025-09-12 13:51:30,349 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=ls
+2025-09-12 13:51:34,917 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=cd ..
+2025-09-12 13:51:35,772 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=ls
+2025-09-12 13:51:38,324 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=cd bin
+2025-09-12 13:51:39,345 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=ls
+2025-09-12 13:51:41,191 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=cd ..
+2025-09-12 13:51:41,869 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=ls
+2025-09-12 13:51:44,228 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=cd home
+2025-09-12 13:51:44,758 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=ls
+2025-09-12 13:51:48,257 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=cd admin
+2025-09-12 13:51:48,863 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=ls
+2025-09-12 13:51:51,191 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=cd ..
+2025-09-12 13:51:51,859 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=ls
+2025-09-12 13:51:56,781 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=cd user
+2025-09-12 13:51:57,202 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=ls
+2025-09-12 13:52:05,093 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=ls
+2025-09-12 13:52:05,673 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=pwd
+2025-09-12 13:52:07,322 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=ls
+2025-09-12 13:52:23,270 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=clear
+2025-09-12 13:52:23,950 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=ls
+2025-09-12 13:52:29,109 CMD  172.20.0.1:51152 user=attacker sid=36f9883da358040a9ec0723e6db0d2d5 cmd=exit
+2025-09-12 13:52:29,116 CONN conn_close 172.20.0.1:51152 sid=36f9883da358040a9ec0723e6db0d2d5
+2025-09-15 06:58:31,592 CONN conn_open 172.20.0.1:46444 sid=1b7cb1f6fe077789c32d3e249c35eab5
+2025-09-15 06:58:42,261 AUTH 172.20.0.1:46444 user=attacker pass=*** sid=1b7cb1f6fe077789c32d3e249c35eab5
+2025-09-15 06:58:44,885 CMD  172.20.0.1:46444 user=attacker sid=1b7cb1f6fe077789c32d3e249c35eab5 cmd=cls
+2025-09-15 06:58:48,945 CMD  172.20.0.1:46444 user=attacker sid=1b7cb1f6fe077789c32d3e249c35eab5 cmd=pwd
+2025-09-15 06:58:51,776 CMD  172.20.0.1:46444 user=attacker sid=1b7cb1f6fe077789c32d3e249c35eab5 cmd=cd ..
+2025-09-15 06:58:52,286 CMD  172.20.0.1:46444 user=attacker sid=1b7cb1f6fe077789c32d3e249c35eab5 cmd=ls
+2025-09-15 06:58:54,831 CMD  172.20.0.1:46444 user=attacker sid=1b7cb1f6fe077789c32d3e249c35eab5 cmd=cd usr
+2025-09-15 06:58:55,258 CMD  172.20.0.1:46444 user=attacker sid=1b7cb1f6fe077789c32d3e249c35eab5 cmd=ls
+2025-09-15 07:00:08,230 CMD  172.20.0.1:46444 user=attacker sid=1b7cb1f6fe077789c32d3e249c35eab5 cmd=ls
+2025-09-15 07:00:09,014 CMD  172.20.0.1:46444 user=attacker sid=1b7cb1f6fe077789c32d3e249c35eab5 cmd=ls
+2025-09-15 07:00:10,285 CMD  172.20.0.1:46444 user=attacker sid=1b7cb1f6fe077789c32d3e249c35eab5 cmd=cd. .
+2025-09-15 07:00:11,160 CMD  172.20.0.1:46444 user=attacker sid=1b7cb1f6fe077789c32d3e249c35eab5 cmd=exit
+2025-09-15 07:00:11,166 CONN conn_close 172.20.0.1:46444 sid=1b7cb1f6fe077789c32d3e249c35eab5
+2025-09-15 07:01:55,610 CONN conn_open 172.20.0.1:58532 sid=f44713923bc3cc7433f80450ee6d5389
+2025-09-15 07:01:55,634 CONN conn_close 172.20.0.1:58532 sid=f44713923bc3cc7433f80450ee6d5389
+2025-09-15 07:02:00,666 CONN conn_open 172.20.0.1:58544 sid=fc9b48b33a3447a25a332eb41ac64c60
+2025-09-15 07:02:03,488 AUTH 172.20.0.1:58544 user=attacker pass=*** sid=fc9b48b33a3447a25a332eb41ac64c60
+2025-09-15 07:02:04,638 CMD  172.20.0.1:58544 user=attacker sid=fc9b48b33a3447a25a332eb41ac64c60 cmd=ls
+2025-09-15 07:02:07,685 CMD  172.20.0.1:58544 user=attacker sid=fc9b48b33a3447a25a332eb41ac64c60 cmd=wpd
+2025-09-15 07:02:14,407 CMD  172.20.0.1:58544 user=attacker sid=fc9b48b33a3447a25a332eb41ac64c60 cmd=uname -a
+2025-09-15 07:02:20,270 CMD  172.20.0.1:58544 user=attacker sid=fc9b48b33a3447a25a332eb41ac64c60 cmd=clear
+2025-09-15 07:02:21,254 CMD  172.20.0.1:58544 user=attacker sid=fc9b48b33a3447a25a332eb41ac64c60 cmd=ls
+2025-09-15 07:02:22,952 CMD  172.20.0.1:58544 user=attacker sid=fc9b48b33a3447a25a332eb41ac64c60 cmd=cd ..
+2025-09-15 07:02:25,598 CMD  172.20.0.1:58544 user=attacker sid=fc9b48b33a3447a25a332eb41ac64c60 cmd=exit
+2025-09-15 07:02:25,604 CONN conn_close 172.20.0.1:58544 sid=fc9b48b33a3447a25a332eb41ac64c60
+2025-09-15 07:02:59,459 CONN conn_open 172.20.0.1:47090 sid=f96ef8a379c116896c0cb91a5955f9aa
+2025-09-15 07:03:02,611 AUTH 172.20.0.1:47090 user=attacker pass=*** sid=f96ef8a379c116896c0cb91a5955f9aa
+2025-09-15 07:03:15,395 CMD  172.20.0.1:47090 user=attacker sid=f96ef8a379c116896c0cb91a5955f9aa cmd=whoami
+2025-09-15 07:03:22,906 CMD  172.20.0.1:47090 user=attacker sid=f96ef8a379c116896c0cb91a5955f9aa cmd=ls
+2025-09-15 07:03:27,816 CMD  172.20.0.1:47090 user=attacker sid=f96ef8a379c116896c0cb91a5955f9aa cmd=cd ..
+2025-09-15 07:03:28,833 CMD  172.20.0.1:47090 user=attacker sid=f96ef8a379c116896c0cb91a5955f9aa cmd=ls
+2025-09-15 07:03:31,700 CMD  172.20.0.1:47090 user=attacker sid=f96ef8a379c116896c0cb91a5955f9aa cmd=cd usr
+2025-09-15 07:03:32,683 CMD  172.20.0.1:47090 user=attacker sid=f96ef8a379c116896c0cb91a5955f9aa cmd=ls
+2025-09-15 07:05:02,683 CONN conn_close 172.20.0.1:47090 sid=f96ef8a379c116896c0cb91a5955f9aa
+2025-09-15 07:12:07,790 CONN conn_open 172.20.0.1:33020 sid=9ef517fccc31092740507e99e91fb57e
+2025-09-15 07:12:10,009 AUTH 172.20.0.1:33020 user=attacker pass=*** sid=9ef517fccc31092740507e99e91fb57e
+2025-09-15 07:12:11,007 CMD  172.20.0.1:33020 user=attacker sid=9ef517fccc31092740507e99e91fb57e cmd=naber
+2025-09-15 07:13:36,380 CONN conn_close 172.20.0.1:33020 sid=9ef517fccc31092740507e99e91fb57e
+2025-09-22 12:23:40,752 CONN conn_open 172.19.0.1:53514 sid=46cf6d8e12b23fd854d4dd281260151a
+2025-09-22 12:23:53,081 CONN conn_close 172.19.0.1:53514 sid=46cf6d8e12b23fd854d4dd281260151a
+2025-09-22 12:26:12,038 CONN conn_open 172.19.0.1:33024 sid=d35edbf23536781f8eb98bef1263f584
+2025-09-22 12:26:12,083 CONN conn_close 172.19.0.1:33024 sid=d35edbf23536781f8eb98bef1263f584
+2025-09-22 12:26:26,583 CONN conn_open 172.19.0.1:60126 sid=38eaba2711355e7810bab11e1db46c00
+2025-09-22 12:26:29,390 AUTH 172.19.0.1:60126 user=elliot pass=*** sid=38eaba2711355e7810bab11e1db46c00
+2025-09-22 12:26:30,656 CMD  172.19.0.1:60126 user=elliot sid=38eaba2711355e7810bab11e1db46c00 cmd=ls
+2025-09-22 12:26:32,070 CMD  172.19.0.1:60126 user=elliot sid=38eaba2711355e7810bab11e1db46c00 cmd=pwd
+2025-09-22 12:26:39,811 CMD  172.19.0.1:60126 user=elliot sid=38eaba2711355e7810bab11e1db46c00 cmd=naber
+2025-09-22 12:26:48,629 CMD  172.19.0.1:60126 user=elliot sid=38eaba2711355e7810bab11e1db46c00 cmd=
+2025-09-22 12:26:50,693 CMD  172.19.0.1:60126 user=elliot sid=38eaba2711355e7810bab11e1db46c00 cmd=exit
+2025-09-22 12:26:50,700 CONN conn_close 172.19.0.1:60126 sid=38eaba2711355e7810bab11e1db46c00
+2025-09-22 12:46:35,618 CONN conn_open 172.19.0.1:44946 sid=0670f3c5fe38c62fe9d5c5755683ebba
+2025-09-22 12:46:35,642 CONN conn_close 172.19.0.1:44946 sid=0670f3c5fe38c62fe9d5c5755683ebba
+2025-09-22 12:46:37,087 CONN conn_open 172.19.0.1:44950 sid=28f26403a60707f1d2347660d692ef3c
+2025-09-22 12:46:37,110 CONN conn_close 172.19.0.1:44950 sid=28f26403a60707f1d2347660d692ef3c
+2025-09-22 12:46:38,343 CONN conn_open 172.19.0.1:44956 sid=15e549be78871ca5ceac1088d9b38515
+2025-09-22 12:46:38,377 CONN conn_close 172.19.0.1:44956 sid=15e549be78871ca5ceac1088d9b38515
+2025-09-22 12:46:49,922 CONN conn_open 172.19.0.1:59520 sid=bd846868d285b579c2734d657d412d01
+2025-09-22 12:46:56,250 AUTH 172.19.0.1:59520 user=elliot pass=*** sid=bd846868d285b579c2734d657d412d01
+2025-09-22 12:46:58,948 CMD  172.19.0.1:59520 user=elliot sid=bd846868d285b579c2734d657d412d01 cmd=ls
+2025-09-22 12:47:04,838 CMD  172.19.0.1:59520 user=elliot sid=bd846868d285b579c2734d657d412d01 cmd=cd Desktop
+2025-09-22 12:47:05,684 CMD  172.19.0.1:59520 user=elliot sid=bd846868d285b579c2734d657d412d01 cmd=ls
+2025-09-22 12:48:02,958 CMD  172.19.0.1:59520 user=elliot sid=bd846868d285b579c2734d657d412d01 cmd=cd ..
+2025-09-22 12:48:03,513 CMD  172.19.0.1:59520 user=elliot sid=bd846868d285b579c2734d657d412d01 cmd=ls
+2025-09-22 12:48:05,768 CMD  172.19.0.1:59520 user=elliot sid=bd846868d285b579c2734d657d412d01 cmd=şs
+2025-09-22 12:48:21,224 CMD  172.19.0.1:59520 user=elliot sid=bd846868d285b579c2734d657d412d01 cmd=exit
+2025-09-22 12:48:21,231 CONN conn_close 172.19.0.1:59520 sid=bd846868d285b579c2734d657d412d01
+2025-09-22 12:48:27,553 CONN conn_open 172.19.0.1:35790 sid=310d21cb9c146c740828ebcb7448fa81
+2025-09-22 12:48:28,680 AUTH 172.19.0.1:35790 user=attacker pass=*** sid=310d21cb9c146c740828ebcb7448fa81
+2025-09-22 12:48:31,035 AUTH 172.19.0.1:35790 user=attacker pass=*** sid=310d21cb9c146c740828ebcb7448fa81
+2025-09-22 12:48:31,817 CONN conn_close 172.19.0.1:35790 sid=310d21cb9c146c740828ebcb7448fa81
+2025-09-22 12:48:38,083 CONN conn_open 172.19.0.1:54736 sid=298b877c6001f735e547dc23d1e50299
+2025-09-22 12:48:46,034 AUTH 172.19.0.1:54736 user=mrrobot pass=*** sid=298b877c6001f735e547dc23d1e50299
+2025-09-22 12:48:47,667 CMD  172.19.0.1:54736 user=mrrobot sid=298b877c6001f735e547dc23d1e50299 cmd=ls
+2025-09-22 12:48:50,169 CMD  172.19.0.1:54736 user=mrrobot sid=298b877c6001f735e547dc23d1e50299 cmd=cd De
+2025-09-22 12:48:53,517 CMD  172.19.0.1:54736 user=mrrobot sid=298b877c6001f735e547dc23d1e50299 cmd=cd Desktop
+2025-09-22 12:48:54,053 CMD  172.19.0.1:54736 user=mrrobot sid=298b877c6001f735e547dc23d1e50299 cmd=ls
+2025-09-22 12:48:57,785 CMD  172.19.0.1:54736 user=mrrobot sid=298b877c6001f735e547dc23d1e50299 cmd=ls
+2025-09-22 12:49:01,989 CMD  172.19.0.1:54736 user=mrrobot sid=298b877c6001f735e547dc23d1e50299 cmd=exit
+2025-09-22 12:49:01,995 CONN conn_close 172.19.0.1:54736 sid=298b877c6001f735e547dc23d1e50299
+2025-09-22 12:49:04,830 CONN conn_open 172.19.0.1:46448 sid=fb3b43cfab5e80ad93a9dd082a7e2969
+2025-09-22 12:49:06,420 AUTH 172.19.0.1:46448 user=elliot pass=*** sid=fb3b43cfab5e80ad93a9dd082a7e2969
+2025-09-22 12:49:07,449 CMD  172.19.0.1:46448 user=elliot sid=fb3b43cfab5e80ad93a9dd082a7e2969 cmd=ls
+2025-09-22 12:49:10,573 CMD  172.19.0.1:46448 user=elliot sid=fb3b43cfab5e80ad93a9dd082a7e2969 cmd=cd Desktop
+2025-09-22 12:49:11,118 CMD  172.19.0.1:46448 user=elliot sid=fb3b43cfab5e80ad93a9dd082a7e2969 cmd=ls
+2025-09-22 12:49:22,332 CMD  172.19.0.1:46448 user=elliot sid=fb3b43cfab5e80ad93a9dd082a7e2969 cmd=cd /
+2025-09-22 12:49:23,634 CMD  172.19.0.1:46448 user=elliot sid=fb3b43cfab5e80ad93a9dd082a7e2969 cmd=ls
+2025-09-22 12:49:26,735 CMD  172.19.0.1:46448 user=elliot sid=fb3b43cfab5e80ad93a9dd082a7e2969 cmd=cd etc
+2025-09-22 12:49:27,220 CMD  172.19.0.1:46448 user=elliot sid=fb3b43cfab5e80ad93a9dd082a7e2969 cmd=ls
+2025-09-22 12:49:29,541 CMD  172.19.0.1:46448 user=elliot sid=fb3b43cfab5e80ad93a9dd082a7e2969 cmd=cd ..
+2025-09-22 12:49:29,946 CMD  172.19.0.1:46448 user=elliot sid=fb3b43cfab5e80ad93a9dd082a7e2969 cmd=ls
+2025-09-22 12:49:31,210 CMD  172.19.0.1:46448 user=elliot sid=fb3b43cfab5e80ad93a9dd082a7e2969 cmd=cd home
+2025-09-22 12:49:31,710 CMD  172.19.0.1:46448 user=elliot sid=fb3b43cfab5e80ad93a9dd082a7e2969 cmd=ls
+2025-09-22 12:49:34,431 CMD  172.19.0.1:46448 user=elliot sid=fb3b43cfab5e80ad93a9dd082a7e2969 cmd=cd ..
+2025-09-22 12:49:35,111 CMD  172.19.0.1:46448 user=elliot sid=fb3b43cfab5e80ad93a9dd082a7e2969 cmd=ls
+2025-09-22 12:49:37,745 CMD  172.19.0.1:46448 user=elliot sid=fb3b43cfab5e80ad93a9dd082a7e2969 cmd=exit
+2025-09-22 12:49:37,751 CONN conn_close 172.19.0.1:46448 sid=fb3b43cfab5e80ad93a9dd082a7e2969
+2025-09-22 12:51:03,112 CONN conn_open 172.19.0.1:49282 sid=9d1f72e2632bffebf97d15095ea0c556
+2025-09-22 12:51:04,840 AUTH 172.19.0.1:49282 user=elliot pass=*** sid=9d1f72e2632bffebf97d15095ea0c556
+2025-09-22 12:51:06,130 CMD  172.19.0.1:49282 user=elliot sid=9d1f72e2632bffebf97d15095ea0c556 cmd=ls
+2025-09-22 12:51:08,338 CMD  172.19.0.1:49282 user=elliot sid=9d1f72e2632bffebf97d15095ea0c556 cmd=cd var
+2025-09-22 12:51:08,767 CMD  172.19.0.1:49282 user=elliot sid=9d1f72e2632bffebf97d15095ea0c556 cmd=ls
+2025-09-22 12:53:04,984 CONN conn_close 172.19.0.1:49282 sid=9d1f72e2632bffebf97d15095ea0c556
+2025-09-22 13:22:55,681 CONN conn_open 172.19.0.1:38932 sid=4f3dace73010d52eba8a9fe68643ff6f
+2025-09-22 13:22:58,028 AUTH 172.19.0.1:38932 user=elliot pass=*** sid=4f3dace73010d52eba8a9fe68643ff6f
+2025-09-22 13:22:58,808 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=ls
+2025-09-22 13:23:00,965 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=cd var
+2025-09-22 13:23:01,250 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=ls
+2025-09-22 13:23:04,977 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=cd home
+2025-09-22 13:23:05,654 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=ls
+2025-09-22 13:23:07,663 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=cd user
+2025-09-22 13:23:08,252 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=ls
+2025-09-22 13:23:10,267 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=cd Desk
+2025-09-22 13:23:13,997 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=cd Desktop
+2025-09-22 13:23:14,467 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=ls
+2025-09-22 13:23:42,159 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=ls
+2025-09-22 13:23:44,032 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=clear
+2025-09-22 13:23:45,105 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=cls
+2025-09-22 13:23:47,885 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=ls
+2025-09-22 13:23:49,799 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=cd ..
+2025-09-22 13:23:50,769 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=ls
+2025-09-22 13:23:52,747 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=cd ..
+2025-09-22 13:23:53,276 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=ls
+2025-09-22 13:23:55,824 CMD  172.19.0.1:38932 user=elliot sid=4f3dace73010d52eba8a9fe68643ff6f cmd=exit
+2025-09-22 13:23:55,826 CONN conn_close 172.19.0.1:38932 sid=4f3dace73010d52eba8a9fe68643ff6f
+2025-09-22 13:24:10,225 CONN conn_open 172.19.0.1:48838 sid=c61cbdf528d2f0ee3436fc47f7a60858
+2025-09-22 13:24:14,714 AUTH 172.19.0.1:48838 user=elliot pass=*** sid=c61cbdf528d2f0ee3436fc47f7a60858
+2025-09-22 13:24:15,821 AUTH 172.19.0.1:48838 user=elliot pass=*** sid=c61cbdf528d2f0ee3436fc47f7a60858
+2025-09-22 13:24:25,078 AUTH 172.19.0.1:48838 user=elliot pass=*** sid=c61cbdf528d2f0ee3436fc47f7a60858
+2025-09-22 13:24:25,082 CONN conn_close 172.19.0.1:48838 sid=c61cbdf528d2f0ee3436fc47f7a60858
+2025-09-22 13:24:48,878 CONN conn_open 172.19.0.1:39550 sid=a333950dcabb0ded609297a99bf01ad8
+2025-09-22 13:24:50,879 AUTH 172.19.0.1:39550 user=mrrobot pass=*** sid=a333950dcabb0ded609297a99bf01ad8
+2025-09-22 13:24:55,338 AUTH 172.19.0.1:39550 user=mrrobot pass=*** sid=a333950dcabb0ded609297a99bf01ad8
+2025-09-22 13:24:58,183 AUTH 172.19.0.1:39550 user=mrrobot pass=*** sid=a333950dcabb0ded609297a99bf01ad8
+2025-09-22 13:24:59,738 CMD  172.19.0.1:39550 user=mrrobot sid=a333950dcabb0ded609297a99bf01ad8 cmd=ls
+2025-09-22 13:25:02,720 CMD  172.19.0.1:39550 user=mrrobot sid=a333950dcabb0ded609297a99bf01ad8 cmd=cd Desktop
+2025-09-22 13:25:03,310 CMD  172.19.0.1:39550 user=mrrobot sid=a333950dcabb0ded609297a99bf01ad8 cmd=ls
+2025-09-22 13:25:06,625 CMD  172.19.0.1:39550 user=mrrobot sid=a333950dcabb0ded609297a99bf01ad8 cmd=ls
+2025-09-22 13:25:08,735 CMD  172.19.0.1:39550 user=mrrobot sid=a333950dcabb0ded609297a99bf01ad8 cmd=exit
+2025-09-22 13:25:08,738 CONN conn_close 172.19.0.1:39550 sid=a333950dcabb0ded609297a99bf01ad8
+2025-09-22 13:37:32,263 CONN conn_open 172.19.0.1:55762 sid=942df335ab78932efe83280e1e1c8d77
+2025-09-22 13:37:34,164 CONN conn_close 172.19.0.1:55762 sid=942df335ab78932efe83280e1e1c8d77
+2025-09-22 13:37:35,283 CONN conn_open 172.19.0.1:55774 sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d
+2025-09-22 13:37:37,119 AUTH 172.19.0.1:55774 user=elliot pass=*** sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d
+2025-09-22 13:37:40,114 CMD  172.19.0.1:55774 user=elliot sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d cmd=pwd
+2025-09-22 13:37:43,206 CMD  172.19.0.1:55774 user=elliot sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d cmd=cd ..
+2025-09-22 13:37:45,031 CMD  172.19.0.1:55774 user=elliot sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d cmd=ls
+2025-09-22 13:37:50,879 CMD  172.19.0.1:55774 user=elliot sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d cmd=cd mrrobot
+2025-09-22 13:37:51,387 CMD  172.19.0.1:55774 user=elliot sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d cmd=ls
+2025-09-22 13:37:58,090 CMD  172.19.0.1:55774 user=elliot sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d cmd=cd ..
+2025-09-22 13:37:59,095 CMD  172.19.0.1:55774 user=elliot sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d cmd=ls
+2025-09-22 13:38:03,222 CMD  172.19.0.1:55774 user=elliot sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d cmd=cd /
+2025-09-22 13:38:03,886 CMD  172.19.0.1:55774 user=elliot sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d cmd=ls
+2025-09-22 13:38:06,209 CMD  172.19.0.1:55774 user=elliot sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d cmd=cd ..
+2025-09-22 13:38:06,964 CMD  172.19.0.1:55774 user=elliot sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d cmd=ls
+2025-09-22 13:38:08,818 CMD  172.19.0.1:55774 user=elliot sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d cmd=cd /
+2025-09-22 13:38:09,388 CMD  172.19.0.1:55774 user=elliot sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d cmd=ls
+2025-09-22 13:39:37,221 CONN conn_close 172.19.0.1:55774 sid=1b5f9c62e092f6d3d2e4d8a1a10fb09d
+2025-09-22 13:51:10,010 CONN conn_open 172.19.0.1:41810 sid=6573339571c6284ebd17984ae368128e
+2025-09-22 13:51:14,165 AUTH 172.19.0.1:41810 user=elliot pass=*** sid=6573339571c6284ebd17984ae368128e
+2025-09-22 13:51:15,241 CMD  172.19.0.1:41810 user=elliot sid=6573339571c6284ebd17984ae368128e cmd=ls
+2025-09-22 13:51:19,182 CMD  172.19.0.1:41810 user=elliot sid=6573339571c6284ebd17984ae368128e cmd=cd ..
+2025-09-22 13:51:19,693 CMD  172.19.0.1:41810 user=elliot sid=6573339571c6284ebd17984ae368128e cmd=ls
+2025-09-22 13:51:27,550 CMD  172.19.0.1:41810 user=elliot sid=6573339571c6284ebd17984ae368128e cmd=cd mrrobot
+2025-09-22 13:51:28,218 CMD  172.19.0.1:41810 user=elliot sid=6573339571c6284ebd17984ae368128e cmd=ls
+2025-09-22 13:51:30,671 CMD  172.19.0.1:41810 user=elliot sid=6573339571c6284ebd17984ae368128e cmd=cd ..
+2025-09-22 13:51:31,211 CMD  172.19.0.1:41810 user=elliot sid=6573339571c6284ebd17984ae368128e cmd=ls
+2025-09-22 13:51:39,766 CMD  172.19.0.1:41810 user=elliot sid=6573339571c6284ebd17984ae368128e cmd=cd ..
+2025-09-22 13:51:40,194 CMD  172.19.0.1:41810 user=elliot sid=6573339571c6284ebd17984ae368128e cmd=ls
+2025-09-22 13:51:45,629 CMD  172.19.0.1:41810 user=elliot sid=6573339571c6284ebd17984ae368128e cmd=cd etc
+2025-09-22 13:51:45,979 CMD  172.19.0.1:41810 user=elliot sid=6573339571c6284ebd17984ae368128e cmd=ls
+2025-09-22 13:51:54,572 CMD  172.19.0.1:41810 user=elliot sid=6573339571c6284ebd17984ae368128e cmd=cd ..
+2025-09-22 13:51:55,849 CMD  172.19.0.1:41810 user=elliot sid=6573339571c6284ebd17984ae368128e cmd=ls
+2025-09-22 13:51:58,089 CMD  172.19.0.1:41810 user=elliot sid=6573339571c6284ebd17984ae368128e cmd=cd home
+2025-09-22 13:51:58,378 CMD  172.19.0.1:41810 user=elliot sid=6573339571c6284ebd17984ae368128e cmd=ls
+2025-09-22 13:52:07,990 CONN conn_close 172.19.0.1:41810 sid=6573339571c6284ebd17984ae368128e
+2025-09-22 14:00:53,411 CONN conn_open 172.19.0.1:49128 sid=92cfe01d9541775a714316498cda4927
+2025-09-22 14:00:53,419 CONN conn_close 172.19.0.1:49128 sid=92cfe01d9541775a714316498cda4927
+2025-09-22 14:01:09,531 CONN conn_open 172.19.0.1:45006 sid=a01a9cd45f476be308e1173641f373bd
+2025-09-22 14:01:18,147 AUTH 172.19.0.1:45006 user=anonymous pass=*** sid=a01a9cd45f476be308e1173641f373bd
+2025-09-22 14:01:21,432 AUTH 172.19.0.1:45006 user=anonymous pass=*** sid=a01a9cd45f476be308e1173641f373bd
+2025-09-22 14:01:23,223 CMD  172.19.0.1:45006 user=anonymous sid=a01a9cd45f476be308e1173641f373bd cmd=ls
+2025-09-22 14:01:27,188 CMD  172.19.0.1:45006 user=anonymous sid=a01a9cd45f476be308e1173641f373bd cmd=cd Desktop
+2025-09-22 14:01:28,559 CMD  172.19.0.1:45006 user=anonymous sid=a01a9cd45f476be308e1173641f373bd cmd=ls
+2025-09-22 14:01:31,016 CMD  172.19.0.1:45006 user=anonymous sid=a01a9cd45f476be308e1173641f373bd cmd=cd ..
+2025-09-22 14:01:32,705 CMD  172.19.0.1:45006 user=anonymous sid=a01a9cd45f476be308e1173641f373bd cmd=cd ..
+2025-09-22 14:01:33,327 CMD  172.19.0.1:45006 user=anonymous sid=a01a9cd45f476be308e1173641f373bd cmd=ls
+2025-09-22 14:01:36,146 CMD  172.19.0.1:45006 user=anonymous sid=a01a9cd45f476be308e1173641f373bd cmd=cd ..
+2025-09-22 14:01:36,689 CMD  172.19.0.1:45006 user=anonymous sid=a01a9cd45f476be308e1173641f373bd cmd=ls
+2025-09-22 14:01:38,861 CMD  172.19.0.1:45006 user=anonymous sid=a01a9cd45f476be308e1173641f373bd cmd=cd ..
+2025-09-22 14:01:39,993 CMD  172.19.0.1:45006 user=anonymous sid=a01a9cd45f476be308e1173641f373bd cmd=ls
+2025-09-22 14:01:42,346 CMD  172.19.0.1:45006 user=anonymous sid=a01a9cd45f476be308e1173641f373bd cmd=cd ..
+2025-09-22 14:01:42,835 CMD  172.19.0.1:45006 user=anonymous sid=a01a9cd45f476be308e1173641f373bd cmd=ls
+2025-09-22 14:01:50,048 CMD  172.19.0.1:45006 user=anonymous sid=a01a9cd45f476be308e1173641f373bd cmd=exit
+2025-09-22 14:01:50,050 CONN conn_close 172.19.0.1:45006 sid=a01a9cd45f476be308e1173641f373bd
+2025-09-22 14:01:56,861 CONN conn_open 172.19.0.1:42086 sid=8927767fa9ca1269c72bfae933d6a5cf
+2025-09-22 14:02:01,787 AUTH 172.19.0.1:42086 user=mrrobot pass=*** sid=8927767fa9ca1269c72bfae933d6a5cf
+2025-09-22 14:02:03,018 CMD  172.19.0.1:42086 user=mrrobot sid=8927767fa9ca1269c72bfae933d6a5cf cmd=ls
+2025-09-22 14:02:05,986 CMD  172.19.0.1:42086 user=mrrobot sid=8927767fa9ca1269c72bfae933d6a5cf cmd=cd ..
+2025-09-22 14:02:06,595 CMD  172.19.0.1:42086 user=mrrobot sid=8927767fa9ca1269c72bfae933d6a5cf cmd=ls
+2025-09-22 14:02:07,786 CMD  172.19.0.1:42086 user=mrrobot sid=8927767fa9ca1269c72bfae933d6a5cf cmd=cd ..
+2025-09-22 14:02:08,954 CMD  172.19.0.1:42086 user=mrrobot sid=8927767fa9ca1269c72bfae933d6a5cf cmd=ls
+2025-09-22 14:02:11,604 CMD  172.19.0.1:42086 user=mrrobot sid=8927767fa9ca1269c72bfae933d6a5cf cmd=cd home
+2025-09-22 14:02:11,978 CMD  172.19.0.1:42086 user=mrrobot sid=8927767fa9ca1269c72bfae933d6a5cf cmd=ls
+2025-09-22 14:02:20,123 CMD  172.19.0.1:42086 user=mrrobot sid=8927767fa9ca1269c72bfae933d6a5cf cmd=cd ..
+2025-09-22 14:02:20,597 CMD  172.19.0.1:42086 user=mrrobot sid=8927767fa9ca1269c72bfae933d6a5cf cmd=ls
+2025-09-22 14:02:22,815 CMD  172.19.0.1:42086 user=mrrobot sid=8927767fa9ca1269c72bfae933d6a5cf cmd=exit
+2025-09-22 14:02:22,818 CONN conn_close 172.19.0.1:42086 sid=8927767fa9ca1269c72bfae933d6a5cf
+2025-09-22 14:05:17,827 CONN conn_open 172.19.0.1:59330 sid=dba9d7d73e35e1a443a25b9842537fc5
+2025-09-22 14:05:23,926 AUTH 172.19.0.1:59330 user=elliot pass=*** sid=dba9d7d73e35e1a443a25b9842537fc5
+2025-09-22 14:05:26,017 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=ls
+2025-09-22 14:05:29,000 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=cd ..
+2025-09-22 14:05:29,423 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=ls
+2025-09-22 14:05:31,932 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=cd ..
+2025-09-22 14:05:32,371 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=ls
+2025-09-22 14:05:38,717 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=cd home
+2025-09-22 14:05:39,030 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=ls
+2025-09-22 14:05:43,316 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=cd elliot
+2025-09-22 14:05:43,823 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=ls
+2025-09-22 14:05:47,592 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=cd DESKTOP
+2025-09-22 14:05:49,504 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=LS
+2025-09-22 14:05:53,338 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=cd Desktop
+2025-09-22 14:05:54,962 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=ls
+2025-09-22 14:06:02,472 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=cd ..
+2025-09-22 14:06:03,010 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=ls
+2025-09-22 14:06:06,811 CMD  172.19.0.1:59330 user=elliot sid=dba9d7d73e35e1a443a25b9842537fc5 cmd=exit
+2025-09-22 14:06:06,813 CONN conn_close 172.19.0.1:59330 sid=dba9d7d73e35e1a443a25b9842537fc5
+2025-09-22 14:11:33,041 CONN conn_open 172.19.0.1:39098 sid=a00bd19204b21d9d06cea1bc7722fa67
+2025-09-22 14:11:34,653 AUTH 172.19.0.1:39098 user=elliot pass=*** sid=a00bd19204b21d9d06cea1bc7722fa67
+2025-09-22 14:11:36,782 CMD  172.19.0.1:39098 user=elliot sid=a00bd19204b21d9d06cea1bc7722fa67 cmd=exit
+2025-09-22 14:11:36,785 CONN conn_close 172.19.0.1:39098 sid=a00bd19204b21d9d06cea1bc7722fa67
+2025-09-22 14:11:41,592 CONN conn_open 172.19.0.1:43740 sid=9c9978ff82d57c0de839f7dfe3d38f8e
+2025-09-22 14:11:44,766 AUTH 172.19.0.1:43740 user=mrrobot pass=*** sid=9c9978ff82d57c0de839f7dfe3d38f8e
+2025-09-22 14:11:46,308 CMD  172.19.0.1:43740 user=mrrobot sid=9c9978ff82d57c0de839f7dfe3d38f8e cmd=exit
+2025-09-22 14:11:46,310 CONN conn_close 172.19.0.1:43740 sid=9c9978ff82d57c0de839f7dfe3d38f8e
+2025-09-22 14:11:52,075 CONN conn_open 172.19.0.1:36954 sid=d461c0c4adbd419d6906db93d03b017f
+2025-09-22 14:11:54,071 AUTH 172.19.0.1:36954 user=anonymous pass=*** sid=d461c0c4adbd419d6906db93d03b017f
+2025-09-22 14:11:55,138 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=ls
+2025-09-22 14:11:56,479 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=cd ..
+2025-09-22 14:11:56,908 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=ls
+2025-09-22 14:11:59,767 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd= cd ..
+2025-09-22 14:12:00,226 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=ls
+2025-09-22 14:12:02,287 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=cd var
+2025-09-22 14:12:02,704 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=l
+2025-09-22 14:12:06,739 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=cd home
+2025-09-22 14:12:08,594 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=ls
+2025-09-22 14:12:10,285 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=cd ..
+2025-09-22 14:12:10,664 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=ls
+2025-09-22 14:12:12,749 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=cd usr
+2025-09-22 14:12:13,193 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=ls
+2025-09-22 14:12:14,812 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=cd ..
+2025-09-22 14:12:16,209 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=cd home
+2025-09-22 14:12:16,600 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=ls
+2025-09-22 14:12:20,633 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=cd Ubuntu
+2025-09-22 14:12:21,206 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=ls
+2025-09-22 14:12:23,250 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=cd ..
+2025-09-22 14:12:23,730 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=ls
+2025-09-22 14:12:27,753 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=cd anonymous
+2025-09-22 14:12:28,324 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=ls
+2025-09-22 14:12:30,592 CMD  172.19.0.1:36954 user=anonymous sid=d461c0c4adbd419d6906db93d03b017f cmd=exit
+2025-09-22 14:12:30,594 CONN conn_close 172.19.0.1:36954 sid=d461c0c4adbd419d6906db93d03b017f
+2025-09-22 14:20:20,046 CONN conn_open 172.19.0.1:34442 sid=51a5cf81ca0a3d0b9e9178ff8b048a44
+2025-09-22 14:20:22,204 AUTH 172.19.0.1:34442 user=attacker pass=*** sid=51a5cf81ca0a3d0b9e9178ff8b048a44
+2025-09-22 14:20:23,258 AUTH 172.19.0.1:34442 user=attacker pass=*** sid=51a5cf81ca0a3d0b9e9178ff8b048a44
+2025-09-22 14:20:23,978 AUTH 172.19.0.1:34442 user=attacker pass=*** sid=51a5cf81ca0a3d0b9e9178ff8b048a44
+2025-09-22 14:20:23,982 CONN conn_close 172.19.0.1:34442 sid=51a5cf81ca0a3d0b9e9178ff8b048a44
+2025-09-22 14:20:29,977 CONN conn_open 172.19.0.1:38866 sid=bb85623fa9b920d1322b6c98cfdd4d0d
+2025-09-22 14:20:32,031 AUTH 172.19.0.1:38866 user=elliot pass=*** sid=bb85623fa9b920d1322b6c98cfdd4d0d
+2025-09-22 14:20:34,296 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=ls
+2025-09-22 14:20:35,834 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=cd ..
+2025-09-22 14:20:36,329 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=ls
+2025-09-22 14:20:37,789 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=cd ..
+2025-09-22 14:20:38,320 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=ls
+2025-09-22 14:20:44,662 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=cd home
+2025-09-22 14:20:45,020 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=ls
+2025-09-22 14:20:48,267 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=cd elliot
+2025-09-22 14:20:49,601 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=ls
+2025-09-22 14:20:51,888 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=cd Desktop
+2025-09-22 14:20:52,463 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=ls
+2025-09-22 14:21:16,513 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=cd /
+2025-09-22 14:21:17,355 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=ls
+2025-09-22 14:21:20,567 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=cd etc
+2025-09-22 14:21:21,011 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=ls
+2025-09-22 14:21:59,462 CMD  172.19.0.1:38866 user=elliot sid=bb85623fa9b920d1322b6c98cfdd4d0d cmd=exit
+2025-09-22 14:21:59,465 CONN conn_close 172.19.0.1:38866 sid=bb85623fa9b920d1322b6c98cfdd4d0d
+2025-09-22 14:22:06,075 CONN conn_open 172.19.0.1:54698 sid=2d5ea697a56b6c4960cbb06acd3d8f98
+2025-09-22 14:22:08,259 AUTH 172.19.0.1:54698 user=mrrobot pass=*** sid=2d5ea697a56b6c4960cbb06acd3d8f98
+2025-09-22 14:22:10,345 CMD  172.19.0.1:54698 user=mrrobot sid=2d5ea697a56b6c4960cbb06acd3d8f98 cmd=ls
+2025-09-22 14:22:12,252 CMD  172.19.0.1:54698 user=mrrobot sid=2d5ea697a56b6c4960cbb06acd3d8f98 cmd=cd De
+2025-09-22 14:22:14,857 CMD  172.19.0.1:54698 user=mrrobot sid=2d5ea697a56b6c4960cbb06acd3d8f98 cmd=cd Desktop
+2025-09-22 14:22:16,319 CMD  172.19.0.1:54698 user=mrrobot sid=2d5ea697a56b6c4960cbb06acd3d8f98 cmd=ls
+2025-09-22 14:22:24,683 CMD  172.19.0.1:54698 user=mrrobot sid=2d5ea697a56b6c4960cbb06acd3d8f98 cmd=exit
+2025-09-22 14:22:24,685 CONN conn_close 172.19.0.1:54698 sid=2d5ea697a56b6c4960cbb06acd3d8f98
+2025-09-22 14:22:31,639 CONN conn_open 172.19.0.1:33142 sid=97ed6297d0fbab61488a36ba36900fa7
+2025-09-22 14:22:35,101 AUTH 172.19.0.1:33142 user=anonymous pass=*** sid=97ed6297d0fbab61488a36ba36900fa7
+2025-09-22 14:22:36,810 CMD  172.19.0.1:33142 user=anonymous sid=97ed6297d0fbab61488a36ba36900fa7 cmd=ls
+2025-09-22 14:22:39,571 CMD  172.19.0.1:33142 user=anonymous sid=97ed6297d0fbab61488a36ba36900fa7 cmd=exit
+2025-09-22 14:22:39,573 CONN conn_close 172.19.0.1:33142 sid=97ed6297d0fbab61488a36ba36900fa7
+2025-09-22 14:22:46,851 CONN conn_open 172.19.0.1:58338 sid=34a4af177360223465091f65c5caa4ce
+2025-09-22 14:22:47,862 AUTH 172.19.0.1:58338 user=asss pass=*** sid=34a4af177360223465091f65c5caa4ce
+2025-09-22 14:22:49,034 AUTH 172.19.0.1:58338 user=asss pass=*** sid=34a4af177360223465091f65c5caa4ce
+2025-09-22 14:22:49,981 AUTH 172.19.0.1:58338 user=asss pass=*** sid=34a4af177360223465091f65c5caa4ce
+2025-09-22 14:22:49,985 CONN conn_close 172.19.0.1:58338 sid=34a4af177360223465091f65c5caa4ce
+2025-09-23 07:23:44,935 CONN conn_open 172.19.0.1:55680 sid=599506be96cdf96583282352893fb4b8
+2025-09-23 07:23:51,784 AUTH 172.19.0.1:55680 user=mrrobot pass=*** sid=599506be96cdf96583282352893fb4b8
+2025-09-23 07:23:53,055 CMD  172.19.0.1:55680 user=mrrobot sid=599506be96cdf96583282352893fb4b8 cmd=ls
+2025-09-23 07:23:55,485 CMD  172.19.0.1:55680 user=mrrobot sid=599506be96cdf96583282352893fb4b8 cmd=exit
+2025-09-23 07:23:55,498 CONN conn_close 172.19.0.1:55680 sid=599506be96cdf96583282352893fb4b8
+2025-09-23 07:25:30,352 CONN conn_open 172.19.0.1:43812 sid=3c13a3fb5c6172b25b75d9a3cdf760a9
+2025-09-23 07:25:32,729 AUTH 172.19.0.1:43812 user=anonymous pass=*** sid=3c13a3fb5c6172b25b75d9a3cdf760a9
+2025-09-23 07:25:33,989 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=ls
+2025-09-23 07:25:35,902 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=cd ..
+2025-09-23 07:25:36,410 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=ls
+2025-09-23 07:25:37,875 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=cd ..
+2025-09-23 07:25:38,483 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=ls
+2025-09-23 07:25:41,257 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=cd home
+2025-09-23 07:25:41,794 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=ls
+2025-09-23 07:25:43,421 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=cd ..
+2025-09-23 07:25:43,955 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=ls
+2025-09-23 07:25:46,870 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=cd ..
+2025-09-23 07:25:47,630 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=ls
+2025-09-23 07:25:58,004 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=cd usr
+2025-09-23 07:25:58,415 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=ls
+2025-09-23 07:26:00,566 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=cd local
+2025-09-23 07:26:00,982 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=ls
+2025-09-23 07:26:02,388 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=cd ..
+2025-09-23 07:26:02,941 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=ls
+2025-09-23 07:26:04,839 CMD  172.19.0.1:43812 user=anonymous sid=3c13a3fb5c6172b25b75d9a3cdf760a9 cmd=exit
+2025-09-23 07:26:04,846 CONN conn_close 172.19.0.1:43812 sid=3c13a3fb5c6172b25b75d9a3cdf760a9
+2025-09-23 07:26:11,957 CONN conn_open 172.19.0.1:34018 sid=f6d4da2665b0906179a8ce1d57ef0255
+2025-09-23 07:26:13,572 AUTH 172.19.0.1:34018 user=elliot pass=*** sid=f6d4da2665b0906179a8ce1d57ef0255
+2025-09-23 07:26:14,808 AUTH 172.19.0.1:34018 user=elliot pass=*** sid=f6d4da2665b0906179a8ce1d57ef0255
+2025-09-23 07:26:17,190 AUTH 172.19.0.1:34018 user=elliot pass=*** sid=f6d4da2665b0906179a8ce1d57ef0255
+2025-09-23 07:26:18,409 CMD  172.19.0.1:34018 user=elliot sid=f6d4da2665b0906179a8ce1d57ef0255 cmd=ls
+2025-09-23 07:26:23,669 CMD  172.19.0.1:34018 user=elliot sid=f6d4da2665b0906179a8ce1d57ef0255 cmd=cd Desktop
+2025-09-23 07:26:24,393 CMD  172.19.0.1:34018 user=elliot sid=f6d4da2665b0906179a8ce1d57ef0255 cmd=ls
+2025-09-23 07:26:35,664 CMD  172.19.0.1:34018 user=elliot sid=f6d4da2665b0906179a8ce1d57ef0255 cmd=cd /etc
+2025-09-23 07:26:36,332 CMD  172.19.0.1:34018 user=elliot sid=f6d4da2665b0906179a8ce1d57ef0255 cmd=ls
+2025-09-23 07:27:30,370 CMD  172.19.0.1:34018 user=elliot sid=f6d4da2665b0906179a8ce1d57ef0255 cmd=exit
+2025-09-23 07:27:30,378 CONN conn_close 172.19.0.1:34018 sid=f6d4da2665b0906179a8ce1d57ef0255
+2025-09-23 07:27:38,369 CONN conn_open 172.19.0.1:35568 sid=aac3df96f090e9c0dfae970a20f672f9
+2025-09-23 07:27:42,453 AUTH 172.19.0.1:35568 user=mrrobot pass=*** sid=aac3df96f090e9c0dfae970a20f672f9
+2025-09-23 07:27:44,387 CMD  172.19.0.1:35568 user=mrrobot sid=aac3df96f090e9c0dfae970a20f672f9 cmd=ls
+2025-09-23 07:27:47,027 CMD  172.19.0.1:35568 user=mrrobot sid=aac3df96f090e9c0dfae970a20f672f9 cmd=cd Desktop
+2025-09-23 07:27:47,678 CMD  172.19.0.1:35568 user=mrrobot sid=aac3df96f090e9c0dfae970a20f672f9 cmd=ls
+2025-09-23 07:27:53,018 CMD  172.19.0.1:35568 user=mrrobot sid=aac3df96f090e9c0dfae970a20f672f9 cmd=cd ..
+2025-09-23 07:27:53,721 CMD  172.19.0.1:35568 user=mrrobot sid=aac3df96f090e9c0dfae970a20f672f9 cmd=ls
+2025-09-23 07:27:54,770 CMD  172.19.0.1:35568 user=mrrobot sid=aac3df96f090e9c0dfae970a20f672f9 cmd= cd ..
+2025-09-23 07:27:55,196 CMD  172.19.0.1:35568 user=mrrobot sid=aac3df96f090e9c0dfae970a20f672f9 cmd=ls
+2025-09-23 07:27:56,855 CMD  172.19.0.1:35568 user=mrrobot sid=aac3df96f090e9c0dfae970a20f672f9 cmd=cd ..
+2025-09-23 07:27:58,055 CMD  172.19.0.1:35568 user=mrrobot sid=aac3df96f090e9c0dfae970a20f672f9 cmd=ls
+2025-09-23 07:28:00,982 CMD  172.19.0.1:35568 user=mrrobot sid=aac3df96f090e9c0dfae970a20f672f9 cmd=cd opt
+2025-09-23 07:28:01,331 CMD  172.19.0.1:35568 user=mrrobot sid=aac3df96f090e9c0dfae970a20f672f9 cmd=ls
+2025-09-23 07:28:02,980 CMD  172.19.0.1:35568 user=mrrobot sid=aac3df96f090e9c0dfae970a20f672f9 cmd=cd ..
+2025-09-23 07:28:43,343 CMD  172.19.0.1:35568 user=mrrobot sid=aac3df96f090e9c0dfae970a20f672f9 cmd=whoami
+2025-09-23 07:28:46,917 CMD  172.19.0.1:35568 user=mrrobot sid=aac3df96f090e9c0dfae970a20f672f9 cmd=exit
+2025-09-23 07:28:46,927 CONN conn_close 172.19.0.1:35568 sid=aac3df96f090e9c0dfae970a20f672f9
+2025-09-23 08:34:30,082 CONN conn_open 172.19.0.1:45248 sid=d4b87558acd7fd049124e151c5151f60
+2025-09-23 08:34:32,225 AUTH 172.19.0.1:45248 user=anonymous pass=*** sid=d4b87558acd7fd049124e151c5151f60
+2025-09-23 08:34:42,293 AUTH 172.19.0.1:45248 user=anonymous pass=*** sid=d4b87558acd7fd049124e151c5151f60
+2025-09-23 08:34:43,151 AUTH 172.19.0.1:45248 user=anonymous pass=*** sid=d4b87558acd7fd049124e151c5151f60
+2025-09-23 08:34:43,155 CONN conn_close 172.19.0.1:45248 sid=d4b87558acd7fd049124e151c5151f60
+2025-09-23 10:34:56,584 CONN conn_open 172.19.0.1:34758 sid=d5a0107c741a655ea21e907b078b9d7a
+2025-09-23 10:35:29,059 AUTH 172.19.0.1:34758 user=anonymous pass=*** sid=d5a0107c741a655ea21e907b078b9d7a
+2025-09-23 10:35:30,160 CMD  172.19.0.1:34758 user=anonymous sid=d5a0107c741a655ea21e907b078b9d7a cmd=ls
+2025-09-23 10:35:32,331 CMD  172.19.0.1:34758 user=anonymous sid=d5a0107c741a655ea21e907b078b9d7a cmd=cd ..
+2025-09-23 10:35:33,909 CMD  172.19.0.1:34758 user=anonymous sid=d5a0107c741a655ea21e907b078b9d7a cmd=ls
+2025-09-23 10:35:40,250 CMD  172.19.0.1:34758 user=anonymous sid=d5a0107c741a655ea21e907b078b9d7a cmd=cd admin
+2025-09-23 10:35:40,646 CMD  172.19.0.1:34758 user=anonymous sid=d5a0107c741a655ea21e907b078b9d7a cmd=ls
+2025-09-23 10:37:29,146 CONN conn_close 172.19.0.1:34758 sid=d5a0107c741a655ea21e907b078b9d7a
+2025-09-23 13:18:09,853 CONN conn_open 172.19.0.1:55770 sid=110a775b4afa8a8b010ad28c7ddfb3e9
+2025-09-23 13:18:11,744 AUTH 172.19.0.1:55770 user=anonymous pass=*** sid=110a775b4afa8a8b010ad28c7ddfb3e9
+2025-09-23 13:18:12,677 AUTH 172.19.0.1:55770 user=anonymous pass=*** sid=110a775b4afa8a8b010ad28c7ddfb3e9
+2025-09-23 13:18:16,048 AUTH 172.19.0.1:55770 user=anonymous pass=*** sid=110a775b4afa8a8b010ad28c7ddfb3e9
+2025-09-23 13:18:17,380 CMD  172.19.0.1:55770 user=anonymous sid=110a775b4afa8a8b010ad28c7ddfb3e9 cmd=clas
+2025-09-23 13:18:18,754 CMD  172.19.0.1:55770 user=anonymous sid=110a775b4afa8a8b010ad28c7ddfb3e9 cmd=cls
+2025-09-23 13:18:20,596 CMD  172.19.0.1:55770 user=anonymous sid=110a775b4afa8a8b010ad28c7ddfb3e9 cmd=clear
+2025-09-23 13:18:25,412 CMD  172.19.0.1:55770 user=anonymous sid=110a775b4afa8a8b010ad28c7ddfb3e9 cmd=cls
+2025-09-23 13:18:27,745 CMD  172.19.0.1:55770 user=anonymous sid=110a775b4afa8a8b010ad28c7ddfb3e9 cmd=python3 
+2025-09-23 13:18:34,864 CMD  172.19.0.1:55770 user=anonymous sid=110a775b4afa8a8b010ad28c7ddfb3e9 cmd=python3 --versions
+2025-09-23 13:18:36,488 CMD  172.19.0.1:55770 user=anonymous sid=110a775b4afa8a8b010ad28c7ddfb3e9 cmd=exit
+2025-09-23 13:18:36,494 CONN conn_close 172.19.0.1:55770 sid=110a775b4afa8a8b010ad28c7ddfb3e9
+2025-09-23 14:36:00,628 CONN conn_open 172.19.0.1:54672 sid=6153c4270a3fa44f8d72aaee9be4e61c
+2025-09-23 14:36:02,686 AUTH 172.19.0.1:54672 user=anonymous pass=*** sid=6153c4270a3fa44f8d72aaee9be4e61c
+2025-09-23 14:38:00,709 CONN conn_close 172.19.0.1:54672 sid=6153c4270a3fa44f8d72aaee9be4e61c
+2025-09-25 14:19:29,048 CONN conn_open 172.19.0.1:47360 sid=5180430361ea1436b0f1bde835351890
+2025-09-25 14:21:29,133 CONN conn_close 172.19.0.1:47360 sid=5180430361ea1436b0f1bde835351890
+2025-09-25 14:24:59,511 CONN conn_open 172.19.0.1:60920 sid=67ebb24907fff4add4d6f2f112835dda
+2025-09-25 14:25:01,220 AUTH 172.19.0.1:60920 user=elliot pass=*** sid=67ebb24907fff4add4d6f2f112835dda
+2025-09-25 14:25:11,038 CMD  172.19.0.1:60920 user=elliot sid=67ebb24907fff4add4d6f2f112835dda cmd=ls
+2025-09-25 14:25:12,971 CMD  172.19.0.1:60920 user=elliot sid=67ebb24907fff4add4d6f2f112835dda cmd=cd ..
+2025-09-25 14:25:13,624 CMD  172.19.0.1:60920 user=elliot sid=67ebb24907fff4add4d6f2f112835dda cmd=ls
+2025-09-25 14:25:16,862 CMD  172.19.0.1:60920 user=elliot sid=67ebb24907fff4add4d6f2f112835dda cmd=cd ..
+2025-09-25 14:25:17,373 CMD  172.19.0.1:60920 user=elliot sid=67ebb24907fff4add4d6f2f112835dda cmd=ls
+2025-09-25 14:25:20,595 CMD  172.19.0.1:60920 user=elliot sid=67ebb24907fff4add4d6f2f112835dda cmd=cd opt
+2025-09-25 14:27:01,357 CONN conn_close 172.19.0.1:60920 sid=67ebb24907fff4add4d6f2f112835dda
+2025-09-25 15:00:25,736 CONN conn_open 172.19.0.1:44370 sid=e88bd35ac530e05a42f3819b9532a756
+2025-09-25 15:00:28,054 AUTH 172.19.0.1:44370 user=anonymous pass=*** sid=e88bd35ac530e05a42f3819b9532a756
+2025-09-25 15:02:28,177 CONN conn_close 172.19.0.1:44370 sid=e88bd35ac530e05a42f3819b9532a756

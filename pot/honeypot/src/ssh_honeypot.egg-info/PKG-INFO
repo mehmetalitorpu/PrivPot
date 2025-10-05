@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: ssh-honeypot
+Version: 0.1.0
+Summary: Isolated SSH honeypot with asyncssh
+Requires-Python: >=3.11
+Requires-Dist: asyncssh>=2.14.2
+Requires-Dist: uvloop>=0.19.0; platform_system != "Windows"
+Provides-Extra: dev
+Requires-Dist: pytest>=8.2.0; extra == "dev"
+Requires-Dist: pytest-asyncio>=0.23.6; extra == "dev"
+Requires-Dist: coverage>=7.5.0; extra == "dev"
+Requires-Dist: ruff>=0.5.0; extra == "dev"
+Requires-Dist: black>=24.8.0; extra == "dev"
